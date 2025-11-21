@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'MIPS to RISC-V',
-  tagline: 'A Programmed Introduction',
+  title: 'PI-MIPS',
+  tagline: 'A Programmed Introduction to MIPS Assembly Language',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'brunoparga', // Usually your GitHub org/user name.
-  projectName: 'mips-doc', // Usually your repo name.
+  projectName: 'pi-mips', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/brunoparga/mips-doc',
+            'https://github.com/brunoparga/pi-mips',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -54,9 +54,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'MIPS to RISC-V',
+      title: 'PI-MIPS',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'PI-MIPS Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -67,7 +67,7 @@ const config: Config = {
           label: 'Tutorial',
         },
         {
-          href: 'https://github.com/brunoparga/mips-doc',
+          href: 'https://github.com/brunoparga/pi-mips',
           label: 'GitHub',
           position: 'right',
         },
@@ -90,7 +90,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/brunoparga/mips-doc',
+              href: 'https://github.com/brunoparga/pi-mips',
             },
           ],
         },
