@@ -1,0 +1,4272 @@
+.
+├── build
+│   ├── 404.html
+│   ├── assets
+│   │   ├── css
+│   │   │   └── styles.d5f9b071.css
+│   │   ├── images
+│   │   │   ├── absIterate-78ce4d61f8ad1d8ac3f2f85f42aa509c.gif
+│   │   │   ├── addProg-9f7d8afa201f80eafd41144871a7355a.gif
+│   │   │   ├── addSome-e18d4337140b7ba683749a45dfc019ca.gif
+│   │   │   ├── aluRegisters-77424f5d0265806e1f5b99abb316cbc7.gif
+│   │   │   ├── andWork-26f187df5b946b70bc5fcc0ee63d8584.gif
+│   │   │   ├── blockSequence-68a8ebc0d41cc02f8d2d2c2895a67f07.gif
+│   │   │   ├── branchDelayRun-51a13258d05223ccce1ef8e87c16e508.gif
+│   │   │   ├── callSummary-1a1c1d76df51d7795564a5b908c99bbe.jpg
+│   │   │   ├── complAss-6ca7e1269cc500623c43d21b808a6c1d.gif
+│   │   │   ├── computerSystem-33cd6f1cf055256df5c303dab4335dfb.gif
+│   │   │   ├── continueMenu-a14821056d537fee20f3c70023d057f7.gif
+│   │   │   ├── design-8081c3491a2b30236dee1d232e392093.gif
+│   │   │   ├── divEgRun-565def28e67a6d9afec15f7bb828dbce.gif
+│   │   │   ├── dosTypeExe-94b8d39d84fb2be4eeb37c04b85aece1.gif
+│   │   │   ├── dosTypeText-36d283f4b98fde003f2ac89e9098a5ef.gif
+│   │   │   ├── dump01-fc3b7956a27791acc5a8644b48d47b70.gif
+│   │   │   ├── eggCarton-dd73b08535cd628406caa0ab5cd4a3b8.gif
+│   │   │   ├── endianRun-09e81df4d3663b771bc0af0b679e86c0.gif
+│   │   │   ├── exceptionOptions-bb8c419f00a0d38b8da2396c5e5f9210.gif
+│   │   │   ├── fileMenu-a59dc9e2285e6073c473bf1a0cda5d39.gif
+│   │   │   ├── firstShift-aafe9501923fb69c8ea9f525fa18cde9.gif
+│   │   │   ├── handMadeNeg-6cf634fc31314937fc5b446c1a81ea9f.gif
+│   │   │   ├── helloOut-5757843b4be778a08897d684065397c6.gif
+│   │   │   ├── ieee10-168b9036ddfc29193564fc97aed387b2.jpg
+│   │   │   ├── IEEE754-8a7a3de7d11ecaaa1f0f3b56a06952c4.jpg
+│   │   │   ├── IMSAI-9f43be47135764102c903abee9767bc7.jpg
+│   │   │   ├── jumpAddressForm-cc18afb28eb0ac3c1b6f23def6ff4561.gif
+│   │   │   ├── levels-a29d4f30e63868686def0dd05bce17a5.jpg
+│   │   │   ├── loadedSource-f15dcba90c531f8afcb190543dfe6b2f.gif
+│   │   │   ├── mallocOnePic-52269afe0ff16d681361f5fc023c7456.gif
+│   │   │   ├── NameRelations-0af53ffa264c1b79291829fe3a62b097.gif
+│   │   │   ├── newMultRun-91c4dcb648186071609c8a01152f0361.gif
+│   │   │   ├── numberLine-9974fb7f42602bea1a198225d596e292.jpg
+│   │   │   ├── openFile-b64b1f0aadcca2fdeaa127384fc864f1.gif
+│   │   │   ├── orWork-51f0d49e2a99b1fba880366a6a2e392e.gif
+│   │   │   ├── polyDataSect-10cec42ce770ec834f71188f3edb04cc.gif
+│   │   │   ├── polyRun-a1784beb108deadc5df639f1f38be66d.gif
+│   │   │   ├── PSPmainboardSmall-ac322cb886956cb6cba8994b4e35fb38.jpg
+│   │   │   ├── pushPopCall-2de3a3821c7e8e17bd003204f94a8cff.gif
+│   │   │   ├── settings-f6d371b7e6312b5cd9c281318724062e.gif
+│   │   │   ├── setValue-1d3a48e7fdec6511c92ca7a4217f637a.gif
+│   │   │   ├── shannonSmall-bd2d6b9bcc1dc79e3612ba585e3f611d.jpg
+│   │   │   ├── singleStep-3b7bda2a02df142d1d28aa6cf6972927.gif
+│   │   │   ├── SPIMla-edd68c926b1bdbf810f7642d6183accc.gif
+│   │   │   ├── startAddress-d3d69357f3d704eb7ae85b13edcaa14c.jpg
+│   │   │   ├── startSpim2-b369f6e7841682e242d1b478469ff1a2.jpg
+│   │   │   ├── startSpim-af3c5087c0ca8b8f16e6b933ae684dea.jpg
+│   │   │   ├── thirdStep-533dcc528e537737bf8b9266a0dc05ff.gif
+│   │   │   ├── threeNodeListMemDump-9b3f24aee5d1cd2de7a90dcd7d32f2a1.gif
+│   │   │   └── wynken-abdfcfe99705b7cd7a55f8379df6cd6b.jpg
+│   │   └── js
+│   │       ├── 00078867.1a5545e1.js
+│   │       ├── 000fc7d9.4aafb79e.js
+│   │       ├── 0058b4c6.b145c0f2.js
+│   │       ├── 00c27c8d.b5fbf5a0.js
+│   │       ├── 00f00d3a.44a2e050.js
+│   │       ├── 0124ca6c.bff3ed30.js
+│   │       ├── 0162e584.37a560ca.js
+│   │       ├── 019136f4.32801b41.js
+│   │       ├── 02a11ca6.4820e2ec.js
+│   │       ├── 02caeb88.6825e1a4.js
+│   │       ├── 032da9e1.5fb62267.js
+│   │       ├── 0331fcca.960415d6.js
+│   │       ├── 0333bafc.8e41a780.js
+│   │       ├── 04201404.2dead4a8.js
+│   │       ├── 04a9b92f.1a0a8983.js
+│   │       ├── 04e5a62f.50b96208.js
+│   │       ├── 0551b13d.9c0fa7b4.js
+│   │       ├── 05d60d23.7b9b271d.js
+│   │       ├── 06af77bd.cc1f341f.js
+│   │       ├── 078e9a47.2b222ea6.js
+│   │       ├── 07b38203.c7344bbd.js
+│   │       ├── 082a5b2b.30e0b9a2.js
+│   │       ├── 092b8b9a.08fe2933.js
+│   │       ├── 09759b79.b7724ac9.js
+│   │       ├── 0b79f394.39ab0a6a.js
+│   │       ├── 0bebd0c9.ff47159d.js
+│   │       ├── 0c33d538.fe80de9b.js
+│   │       ├── 0c537859.449ec6c3.js
+│   │       ├── 0c9196ce.86e4d68d.js
+│   │       ├── 0cd2809c.373e3ea2.js
+│   │       ├── 0d05fb6a.08807d56.js
+│   │       ├── 0d88cde0.b748e71a.js
+│   │       ├── 0e384e19.7a55bc7c.js
+│   │       ├── 0f49d78b.3b5f5dfc.js
+│   │       ├── 0fbbd949.7145ce2b.js
+│   │       ├── 102da021.7ca7c377.js
+│   │       ├── 10a19d4d.68bc35c5.js
+│   │       ├── 10b1f7e7.3e246233.js
+│   │       ├── 10d8837f.ddb10c39.js
+│   │       ├── 10e44d06.8b4b5889.js
+│   │       ├── 111ce9fd.297c8ce8.js
+│   │       ├── 11a0181c.c7522ca7.js
+│   │       ├── 11aca0a2.4ad2cdbd.js
+│   │       ├── 11b55135.ce11dbc9.js
+│   │       ├── 11e3d7c8.346774a0.js
+│   │       ├── 1224e0a6.b88f7f33.js
+│   │       ├── 12285.7e8ced54.js
+│   │       ├── 122cfee8.bc021e56.js
+│   │       ├── 124cfe29.83abc3d3.js
+│   │       ├── 13ef3197.e5d575c7.js
+│   │       ├── 140d8f02.ce33fdaf.js
+│   │       ├── 15714fd9.d0a3da68.js
+│   │       ├── 158722c4.5c5cff36.js
+│   │       ├── 15da38bb.d01fd720.js
+│   │       ├── 15e21572.41cbfcc2.js
+│   │       ├── 16214108.6bec9bdf.js
+│   │       ├── 1642b1d0.4785ab52.js
+│   │       ├── 165e16a5.8a81d1f7.js
+│   │       ├── 166fe9ed.9771f54b.js
+│   │       ├── 167edae1.cdcccc1c.js
+│   │       ├── 16a292ff.59c490d8.js
+│   │       ├── 16a3afd2.82d677b9.js
+│   │       ├── 16ef5dc0.efd245f0.js
+│   │       ├── 170d9593.83420631.js
+│   │       ├── 17896441.fceb94a1.js
+│   │       ├── 17a81b68.ccced6dc.js
+│   │       ├── 1892c177.a7bdc150.js
+│   │       ├── 19cbedbb.35064a19.js
+│   │       ├── 19f1b216.8947947e.js
+│   │       ├── 1a4c8984.732f1e58.js
+│   │       ├── 1b1a24a3.fdaf349d.js
+│   │       ├── 1b77611d.ae7e65c8.js
+│   │       ├── 1cc8ae4f.ae6c2107.js
+│   │       ├── 1d4ff37d.9ee5d9df.js
+│   │       ├── 1de4a3d3.8455bb9c.js
+│   │       ├── 1df0669d.f7409ff9.js
+│   │       ├── 1df93b7f.152e92bf.js
+│   │       ├── 1e182b33.3a361c22.js
+│   │       ├── 1e740097.ba61b1d9.js
+│   │       ├── 1e8979a4.451be990.js
+│   │       ├── 1eb2df21.dfc8a90d.js
+│   │       ├── 1f0f65ad.3d87d31f.js
+│   │       ├── 1f391b9e.4e9431ed.js
+│   │       ├── 1fcfd72a.9a6d5cd7.js
+│   │       ├── 1fdcd60d.29a29b43.js
+│   │       ├── 1ffca0c7.6304c312.js
+│   │       ├── 201875b8.659e9cd8.js
+│   │       ├── 20c1840e.d8a5b630.js
+│   │       ├── 20c77e13.97637195.js
+│   │       ├── 20f9f0a5.f6ea97f8.js
+│   │       ├── 217469b3.41ac888e.js
+│   │       ├── 218cda62.9ac0c9be.js
+│   │       ├── 2199f675.04da501f.js
+│   │       ├── 21db99f0.22912ea8.js
+│   │       ├── 22af574e.2f0d4c0c.js
+│   │       ├── 22da7349.dd15aab3.js
+│   │       ├── 23bbf8b9.a27dd7a5.js
+│   │       ├── 2403cd4f.b087b4db.js
+│   │       ├── 2524d666.23d4ec92.js
+│   │       ├── 2555cac9.d0059502.js
+│   │       ├── 25a6be43.8a34e2ea.js
+│   │       ├── 2640c710.13af5c51.js
+│   │       ├── 2663c0e4.992b01c1.js
+│   │       ├── 26e3c56d.fe03ef67.js
+│   │       ├── 274532c8.0dbb0248.js
+│   │       ├── 2759a5f2.cb17a8ee.js
+│   │       ├── 27b1d921.813d0099.js
+│   │       ├── 27e0b4cc.7ba1ab02.js
+│   │       ├── 282041bf.7cd54ad4.js
+│   │       ├── 28e856eb.303cf927.js
+│   │       ├── 29267b94.b3619c2e.js
+│   │       ├── 298f97ec.55ad20a4.js
+│   │       ├── 29ef8ac2.c9e96484.js
+│   │       ├── 2ad0f347.bb31e149.js
+│   │       ├── 2ade48e0.70984528.js
+│   │       ├── 2b2df5f2.7c7c1f97.js
+│   │       ├── 2b4b416d.83f06b77.js
+│   │       ├── 2c777464.896a3f5a.js
+│   │       ├── 2c7bd6d8.ccc38be9.js
+│   │       ├── 2ca18932.0ccfaa5d.js
+│   │       ├── 2cf77ee9.d20aa22d.js
+│   │       ├── 2cfee27a.5550a38e.js
+│   │       ├── 2d075f50.86ea13da.js
+│   │       ├── 2d184fd4.5b291649.js
+│   │       ├── 2d240aec.b8d04d9f.js
+│   │       ├── 2d2ff52f.6c9c8cc8.js
+│   │       ├── 2d9d647c.6a685aaa.js
+│   │       ├── 2df222b9.31f2f5f1.js
+│   │       ├── 2f28d523.b25069e6.js
+│   │       ├── 2f48cdcb.92f128cb.js
+│   │       ├── 2fc9d282.0fbe6439.js
+│   │       ├── 305f820c.3b49d696.js
+│   │       ├── 308413a0.4e298b98.js
+│   │       ├── 315b1743.43a68c44.js
+│   │       ├── 3187e46b.a01750c9.js
+│   │       ├── 325e0705.2356bb9f.js
+│   │       ├── 32a05d50.477ce061.js
+│   │       ├── 3320b670.0fca785a.js
+│   │       ├── 33a8c8c1.053e4369.js
+│   │       ├── 3490eb56.40a2046a.js
+│   │       ├── 349963ba.1373836e.js
+│   │       ├── 3550a5f8.f2edc33b.js
+│   │       ├── 359faeac.e9181b47.js
+│   │       ├── 36019a54.eeff5b4a.js
+│   │       ├── 362d0585.940d88b2.js
+│   │       ├── 36730bea.0668046d.js
+│   │       ├── 367cd252.69311f86.js
+│   │       ├── 3684ab0a.3bba8656.js
+│   │       ├── 368ff13e.c18c6776.js
+│   │       ├── 373b0599.00d7f881.js
+│   │       ├── 38202d9b.65183890.js
+│   │       ├── 3854498d.3bc063d7.js
+│   │       ├── 38685353.4297aaf6.js
+│   │       ├── 391a2215.69a10a92.js
+│   │       ├── 393be207.9bfa7805.js
+│   │       ├── 396a6e96.d30760f4.js
+│   │       ├── 39ec2894.1a99e5d9.js
+│   │       ├── 3a03ecfd.89ed5fbb.js
+│   │       ├── 3a42790c.a990beba.js
+│   │       ├── 3a448adb.0f2b47e2.js
+│   │       ├── 3a649a3f.51e408ad.js
+│   │       ├── 3aa1710e.5ed72887.js
+│   │       ├── 3b8a08f4.753e7abb.js
+│   │       ├── 3b9c4ea0.594919ea.js
+│   │       ├── 3bc044d7.4bf8ef49.js
+│   │       ├── 3be328a5.e5280991.js
+│   │       ├── 3c4cb28d.d4a31629.js
+│   │       ├── 3db2a2f8.6ce6210f.js
+│   │       ├── 3dde5a53.36ea857d.js
+│   │       ├── 3e4f100d.b1aed287.js
+│   │       ├── 3eaf62b0.1095b6e8.js
+│   │       ├── 3eb6310e.0f855235.js
+│   │       ├── 3ee57aaf.03e33e42.js
+│   │       ├── 3efab28d.684ee757.js
+│   │       ├── 3f343722.437adc1f.js
+│   │       ├── 3fc696bd.1beaf877.js
+│   │       ├── 3ffb8406.db6c7e13.js
+│   │       ├── 4017e797.0baccb98.js
+│   │       ├── 4054b3bc.632d0687.js
+│   │       ├── 40bc85b0.87fdddab.js
+│   │       ├── 40c03a65.ad8b6f8d.js
+│   │       ├── 41a19ed4.3e8450fa.js
+│   │       ├── 41cd08c0.ad4fd247.js
+│   │       ├── 41eb106f.50e1e596.js
+│   │       ├── 41f107cc.c4881d7b.js
+│   │       ├── 41f773c9.87f28edb.js
+│   │       ├── 422570e7.6b4528ea.js
+│   │       ├── 4257eb98.fc723b75.js
+│   │       ├── 425f4680.38b82e73.js
+│   │       ├── 428c8517.86b7c9b5.js
+│   │       ├── 42eac57a.d117fc2e.js
+│   │       ├── 42f2577a.b9bcfc80.js
+│   │       ├── 430b79bc.e3d52986.js
+│   │       ├── 43b2eb7f.8e3bf5a7.js
+│   │       ├── 4564956e.b555c7a5.js
+│   │       ├── 45696437.aef5a4a7.js
+│   │       ├── 45fe30fb.541a4da2.js
+│   │       ├── 462ee642.00c995a1.js
+│   │       ├── 465f2c51.31e6078e.js
+│   │       ├── 46b468bc.63d10d1a.js
+│   │       ├── 46ec1d83.127fcafe.js
+│   │       ├── 471e4de7.b6e8e5fd.js
+│   │       ├── 475b5526.4d66363b.js
+│   │       ├── 47be6c01.78224feb.js
+│   │       ├── 481ef180.b593652c.js
+│   │       ├── 48280a67.b17c6629.js
+│   │       ├── 484f414d.d191eca1.js
+│   │       ├── 48c0a404.f4c67201.js
+│   │       ├── 49d3cd56.d9affa6a.js
+│   │       ├── 4a82a9c8.78a05e3b.js
+│   │       ├── 4a8e67d3.be3fb09f.js
+│   │       ├── 4b5a016a.01656772.js
+│   │       ├── 4b7ef4e3.dbc415dc.js
+│   │       ├── 4b9a44af.c52cfa64.js
+│   │       ├── 4bbe787e.e4e43633.js
+│   │       ├── 4c2366f1.c55513ab.js
+│   │       ├── 4c4852df.aa6b2be3.js
+│   │       ├── 4c4c73ed.2dda5ccd.js
+│   │       ├── 4c7c6bcb.3a1c579b.js
+│   │       ├── 4c8c48cd.adc53693.js
+│   │       ├── 4cd64762.e859febe.js
+│   │       ├── 4db7b171.877caf2a.js
+│   │       ├── 4dd123fd.c18392e9.js
+│   │       ├── 4f5b5248.3c706b41.js
+│   │       ├── 502f9dd8.8e05f333.js
+│   │       ├── 50b87a82.94457474.js
+│   │       ├── 52983100.10ea0596.js
+│   │       ├── 52af1028.303866cd.js
+│   │       ├── 52e4e50e.ce0b3d1e.js
+│   │       ├── 52e9f6f3.4cd46cae.js
+│   │       ├── 53aa0568.9247210a.js
+│   │       ├── 53e09a06.dd2ac909.js
+│   │       ├── 54049ea6.7e823bf7.js
+│   │       ├── 54f306a8.aa2c1c72.js
+│   │       ├── 55b75f89.818414f4.js
+│   │       ├── 56cab882.946a819e.js
+│   │       ├── 57491292.904a5a91.js
+│   │       ├── 575bdfa8.1eb8bcae.js
+│   │       ├── 57883771.d8761e41.js
+│   │       ├── 57d47ad3.58898bfa.js
+│   │       ├── 57d4fc99.f124eefa.js
+│   │       ├── 57e33bf1.8957a25b.js
+│   │       ├── 592a0ebb.6ea12509.js
+│   │       ├── 59c274a8.34afabfa.js
+│   │       ├── 59faad03.9c4c42f8.js
+│   │       ├── 5a38110d.97ef15dc.js
+│   │       ├── 5a38e017.8a7b1eed.js
+│   │       ├── 5a6e88eb.c1fe0bf1.js
+│   │       ├── 5a858e36.f872004f.js
+│   │       ├── 5b0fe71d.de4edaca.js
+│   │       ├── 5b1fcca9.715faa15.js
+│   │       ├── 5b4d16cf.b57afd17.js
+│   │       ├── 5b60a9ee.5ec9832d.js
+│   │       ├── 5b669022.80901dff.js
+│   │       ├── 5b881725.6942746c.js
+│   │       ├── 5be784dd.f88d9902.js
+│   │       ├── 5c3408b0.8065199c.js
+│   │       ├── 5c8a0991.a7c0cd91.js
+│   │       ├── 5ce6dfe3.a93ce267.js
+│   │       ├── 5df3a1bf.3f9fc55f.js
+│   │       ├── 5e75fa21.3f0cf2b4.js
+│   │       ├── 5e95c892.90d1a197.js
+│   │       ├── 5ead838d.b420175a.js
+│   │       ├── 5f4a698a.6018dac6.js
+│   │       ├── 60bbae88.c849dd02.js
+│   │       ├── 61009952.62ceae22.js
+│   │       ├── 6130530c.5bf8391b.js
+│   │       ├── 6271a4d4.2ac31a44.js
+│   │       ├── 62d3d5df.a2a0d1e7.js
+│   │       ├── 62eb0e56.622953a6.js
+│   │       ├── 63c2b91d.72affe85.js
+│   │       ├── 63c68fbc.b983c1d1.js
+│   │       ├── 63ea0dee.d510befe.js
+│   │       ├── 64c3c5b0.1716af92.js
+│   │       ├── 650867a1.e06e7c8a.js
+│   │       ├── 6510fb7d.3729aec2.js
+│   │       ├── 654ef3d7.676ece27.js
+│   │       ├── 658ae984.876a742f.js
+│   │       ├── 666b5c84.fd36de1e.js
+│   │       ├── 66cf6ed3.12df0173.js
+│   │       ├── 67c8e443.ae49e0bb.js
+│   │       ├── 67deda22.e111249b.js
+│   │       ├── 685fc3ba.4e477419.js
+│   │       ├── 695d0bbc.8bb29ce3.js
+│   │       ├── 6964a3b0.05ab5a6b.js
+│   │       ├── 6b5866a4.0abdcedf.js
+│   │       ├── 6b6e6ba4.4eec5eec.js
+│   │       ├── 6bf46e7c.81f37699.js
+│   │       ├── 6d3626b3.60755ed2.js
+│   │       ├── 6e880fca.d7f0b721.js
+│   │       ├── 6f092985.1f890208.js
+│   │       ├── 6fc79797.bb646c80.js
+│   │       ├── 6fff5efb.afb4b27f.js
+│   │       ├── 7016f2b5.81c855f3.js
+│   │       ├── 70d42173.41bd77f4.js
+│   │       ├── 71022e55.668eeb7d.js
+│   │       ├── 71e45c41.4159d0e7.js
+│   │       ├── 7274fee2.88273acf.js
+│   │       ├── 728c42e8.49a77dea.js
+│   │       ├── 7297f9db.88e0e373.js
+│   │       ├── 72dd660d.d79ade0d.js
+│   │       ├── 73263610.f7ba137e.js
+│   │       ├── 732cfe56.60014695.js
+│   │       ├── 73310c5e.e6ba2f63.js
+│   │       ├── 734892fb.6aa07e13.js
+│   │       ├── 735479f3.9c1b13cb.js
+│   │       ├── 737514c2.0072d85f.js
+│   │       ├── 73cb0d93.1d230cdd.js
+│   │       ├── 742342e0.04b71056.js
+│   │       ├── 745abc01.f504cd54.js
+│   │       ├── 746f9a4e.1cf93247.js
+│   │       ├── 74720c2c.bfca0bbd.js
+│   │       ├── 74b180ab.04394277.js
+│   │       ├── 75382700.bd707bf2.js
+│   │       ├── 754793b2.a8320778.js
+│   │       ├── 764f47b0.f73f5193.js
+│   │       ├── 7778d3d6.8019274a.js
+│   │       ├── 777cd81d.4d60402f.js
+│   │       ├── 77a26cef.f45ba31a.js
+│   │       ├── 77b27e1a.81b763ac.js
+│   │       ├── 77ba112f.d3a7e709.js
+│   │       ├── 77ede4d1.c91237bc.js
+│   │       ├── 780070a9.d04c987c.js
+│   │       ├── 7819374c.10b23b15.js
+│   │       ├── 781d6223.23b8b39a.js
+│   │       ├── 797f569c.e7845a3c.js
+│   │       ├── 79ad502a.4eb27625.js
+│   │       ├── 7a1b4d66.8dc31060.js
+│   │       ├── 7a620cdd.ad3f2957.js
+│   │       ├── 7a8cf317.6ae94c15.js
+│   │       ├── 7b2ecc87.0ea2b5e9.js
+│   │       ├── 7cba8942.d9a20f48.js
+│   │       ├── 7dd166df.61feacf4.js
+│   │       ├── 7e281c3e.b363fff1.js
+│   │       ├── 7ef6f4b8.4ba388d7.js
+│   │       ├── 7f599e4c.7d91ce88.js
+│   │       ├── 7f772421.d14468a6.js
+│   │       ├── 7fe6cee5.b9dcb25d.js
+│   │       ├── 811d62d6.91efa2b9.js
+│   │       ├── 81590421.8fdc8c72.js
+│   │       ├── 81e97074.b051378d.js
+│   │       ├── 82237.fd67709a.js
+│   │       ├── 828413ba.95c52e72.js
+│   │       ├── 82cc8538.a8e482c4.js
+│   │       ├── 82ffcb73.735380af.js
+│   │       ├── 8493b43b.78d1d620.js
+│   │       ├── 85b1ebb7.9f579092.js
+│   │       ├── 863b8bac.b4035dbd.js
+│   │       ├── 87a8cbf7.492a61ab.js
+│   │       ├── 899be64b.3f5874dd.js
+│   │       ├── 89c18ff4.419f701e.js
+│   │       ├── 8a7ce359.f1902ff4.js
+│   │       ├── 8a9e1b60.81e880d7.js
+│   │       ├── 8ac026bc.954d9d79.js
+│   │       ├── 8bcc62a1.33db33ab.js
+│   │       ├── 8c102246.ccd80f98.js
+│   │       ├── 8d46e73b.e74a7714.js
+│   │       ├── 8d6f4a3d.d6d0d2d0.js
+│   │       ├── 8da528d1.57317f8c.js
+│   │       ├── 8dd83ce8.709f9e54.js
+│   │       ├── 8eca6e72.1fda71a5.js
+│   │       ├── 8f4495bf.59aa29d7.js
+│   │       ├── 8fa12ddf.52f6d484.js
+│   │       ├── 8fc9e280.3bd8a800.js
+│   │       ├── 8fe1b2bc.8644b812.js
+│   │       ├── 9089d596.ee98900c.js
+│   │       ├── 91656aa2.0fcd567d.js
+│   │       ├── 92109a39.f0aa6910.js
+│   │       ├── 92ae9207.5e6c08c7.js
+│   │       ├── 92b80f86.e2b892d8.js
+│   │       ├── 936f0ead.a1446c43.js
+│   │       ├── 93dc3021.2808592c.js
+│   │       ├── 9472af4a.b3988b41.js
+│   │       ├── 948b782c.a8802d84.js
+│   │       ├── 94c1a669.0e635e01.js
+│   │       ├── 95593596.02bf87b5.js
+│   │       ├── 95a3f777.8a97f649.js
+│   │       ├── 95bb7cb6.fc1226bd.js
+│   │       ├── 9600c3f5.c5954a97.js
+│   │       ├── 9612a68e.5e50d4f3.js
+│   │       ├── 9734a39a.e5a5b6c0.js
+│   │       ├── 9738bce8.08a9b877.js
+│   │       ├── 97effa04.edca6dd0.js
+│   │       ├── 97ff055c.001b0237.js
+│   │       ├── 9810b1d3.59beff8b.js
+│   │       ├── 983990be.ef83dd73.js
+│   │       ├── 98ea7e29.2e3cbf21.js
+│   │       ├── 9901ec88.3c8fbe34.js
+│   │       ├── 999e11da.e3c0687f.js
+│   │       ├── 99a151ac.4be3eb7b.js
+│   │       ├── 99e87818.fafab936.js
+│   │       ├── 9a700806.ef2f8d88.js
+│   │       ├── 9a7ee0a6.a37b1ce5.js
+│   │       ├── 9b75b16f.767ace2d.js
+│   │       ├── 9c5d0d2c.b59ea02b.js
+│   │       ├── 9cd0b323.43a5b5f4.js
+│   │       ├── 9d8c7210.f0ea99de.js
+│   │       ├── 9dc3fb97.4d439d85.js
+│   │       ├── 9dcf078a.e4e8d0fb.js
+│   │       ├── 9eb497b7.d23d6694.js
+│   │       ├── 9ed76158.a42de920.js
+│   │       ├── 9ee98bc4.1d019974.js
+│   │       ├── 9f429f05.132424d1.js
+│   │       ├── 9f66e655.015385cb.js
+│   │       ├── 9f713f74.ccdb5909.js
+│   │       ├── 9f9c0bca.a5e2dbd4.js
+│   │       ├── 9fa14ace.fb73d8f1.js
+│   │       ├── 9ff5aa44.844bf3fb.js
+│   │       ├── a09a4452.710a25f8.js
+│   │       ├── a0dfa052.919f1722.js
+│   │       ├── a0fbef5f.ab63c052.js
+│   │       ├── a15dde52.328483cc.js
+│   │       ├── a1fbe3e4.ad999b6b.js
+│   │       ├── a2765331.d5a2a955.js
+│   │       ├── a29c03fe.c9041c98.js
+│   │       ├── a2a9acbe.f788dbc0.js
+│   │       ├── a2c2c512.1c24e56b.js
+│   │       ├── a2c9d644.4010482d.js
+│   │       ├── a324b7a5.54b8f5b3.js
+│   │       ├── a3494d84.7b12394b.js
+│   │       ├── a497ac3d.fe9cf8e8.js
+│   │       ├── a4bd8485.9aca09f9.js
+│   │       ├── a4cfc1b5.dc3ec05a.js
+│   │       ├── a4f77e29.6b82a4a4.js
+│   │       ├── a5a57d1d.96107aa4.js
+│   │       ├── a63bc928.d171715a.js
+│   │       ├── a64a012e.59be2b59.js
+│   │       ├── a670c517.2dbf13e2.js
+│   │       ├── a67584fd.8ac7954f.js
+│   │       ├── a67e4866.31bb307d.js
+│   │       ├── a6fe233a.41672ee8.js
+│   │       ├── a713513f.d5095c80.js
+│   │       ├── a7456010.d438bf30.js
+│   │       ├── a7ad033f.d9d340a5.js
+│   │       ├── a7bd4aaa.2aa6379a.js
+│   │       ├── a7df7d60.ef8d9f60.js
+│   │       ├── a83a7228.4d494704.js
+│   │       ├── a8bfc577.b3fea03a.js
+│   │       ├── a8d9594e.2c987456.js
+│   │       ├── a94703ab.8903083e.js
+│   │       ├── a95f5f5d.d41079e0.js
+│   │       ├── a979c6ae.6b862f0e.js
+│   │       ├── a97f3c3d.66976056.js
+│   │       ├── aa5fd34a.4efc526c.js
+│   │       ├── ab63a63e.37f70914.js
+│   │       ├── aba21aa0.16021085.js
+│   │       ├── ac4dc2bb.624c7f10.js
+│   │       ├── ac5cd42d.6ca59d44.js
+│   │       ├── acf80565.52fabfd2.js
+│   │       ├── ad50ca0c.7b95124b.js
+│   │       ├── ad913549.73aea3ca.js
+│   │       ├── ada7857d.e59fb312.js
+│   │       ├── add4f487.28c2511d.js
+│   │       ├── ae9168db.14c89076.js
+│   │       ├── aebe0ec0.2daeb2fe.js
+│   │       ├── af32338d.aba8452a.js
+│   │       ├── afabfea6.0435d7ed.js
+│   │       ├── b070d5f8.250e4710.js
+│   │       ├── b0a871df.8b0faf76.js
+│   │       ├── b0c321e9.71b0130f.js
+│   │       ├── b0dfdfed.5e348516.js
+│   │       ├── b17698c4.a483ca6c.js
+│   │       ├── b27b7b3c.a111dcda.js
+│   │       ├── b28e3e3a.3166f29c.js
+│   │       ├── b2bdb9d4.22a7d6bb.js
+│   │       ├── b2fed319.7179852f.js
+│   │       ├── b3448f71.b8e0ccac.js
+│   │       ├── b3745daa.a772d536.js
+│   │       ├── b421e5f7.ec67e6d2.js
+│   │       ├── b42592cd.2b25aa46.js
+│   │       ├── b4eb8ee2.ecf7cb4e.js
+│   │       ├── b57cd749.fb2fc5be.js
+│   │       ├── b642ab8c.ecd42b94.js
+│   │       ├── b64fe507.6dc34ee0.js
+│   │       ├── b6d35049.07dc83be.js
+│   │       ├── b70d41d7.d3d3a9f9.js
+│   │       ├── b78a18aa.ea5ca09e.js
+│   │       ├── b80babaf.ecf286c8.js
+│   │       ├── b82b700e.2c880d14.js
+│   │       ├── b86a48d7.3359b1a1.js
+│   │       ├── b88ac20f.7a55a745.js
+│   │       ├── b8adb34d.42058a8b.js
+│   │       ├── b929fd22.9e3c6139.js
+│   │       ├── b92af698.70196a7f.js
+│   │       ├── b96166e9.0e28a1fb.js
+│   │       ├── b96e886b.ff11882e.js
+│   │       ├── b992b815.2b1f4ab0.js
+│   │       ├── ba0d9eb0.ed1803c1.js
+│   │       ├── baa45b8a.c06ca4db.js
+│   │       ├── bb945fbc.df5e9473.js
+│   │       ├── bcfa284c.c152a1b7.js
+│   │       ├── bd650450.b2f75436.js
+│   │       ├── be7b500b.877771c5.js
+│   │       ├── bed1f0dc.0ea709b8.js
+│   │       ├── beddec36.e7589408.js
+│   │       ├── bf2de232.f85ef609.js
+│   │       ├── bf63ba8b.9d9a1864.js
+│   │       ├── bfc38da6.c4bc7a9e.js
+│   │       ├── c070c842.996816b1.js
+│   │       ├── c0a26573.c091c719.js
+│   │       ├── c0c6a479.56c6c836.js
+│   │       ├── c0df2cc4.cdb2bbc4.js
+│   │       ├── c0eab1cd.9fe29fe6.js
+│   │       ├── c0fcaf67.22135bb3.js
+│   │       ├── c219b0aa.6f1b0acc.js
+│   │       ├── c21d0767.2b6b9da8.js
+│   │       ├── c23d7278.10502ff3.js
+│   │       ├── c2801c0f.476a96b1.js
+│   │       ├── c30330a1.403860bf.js
+│   │       ├── c35e6411.dc85a035.js
+│   │       ├── c44f4831.1f8fbe26.js
+│   │       ├── c5a15b60.99844a58.js
+│   │       ├── c640f88e.8dc488ba.js
+│   │       ├── c6d3fc1f.6133d81c.js
+│   │       ├── c6efaeaa.7bb0ab13.js
+│   │       ├── c6fec44b.befce552.js
+│   │       ├── c71c3b11.8061754a.js
+│   │       ├── c79fccfa.8115d797.js
+│   │       ├── c7c7154e.994ed2d8.js
+│   │       ├── c801b86b.fcf0cd98.js
+│   │       ├── c858c3f3.aefd8b32.js
+│   │       ├── c8815723.a3846567.js
+│   │       ├── c985ce31.10a296cf.js
+│   │       ├── c98f4c3a.8bc06826.js
+│   │       ├── c9d72206.05ce11ab.js
+│   │       ├── ca4e3679.2a919676.js
+│   │       ├── ca95fffb.5dee0fca.js
+│   │       ├── cadd041b.c555a346.js
+│   │       ├── cb902828.a4aa5a98.js
+│   │       ├── cb9222dd.def98e90.js
+│   │       ├── cbb67b73.a563b800.js
+│   │       ├── cbe58ef8.bfa1e88b.js
+│   │       ├── cce78701.7b9dddab.js
+│   │       ├── cd2edeaa.f3bafee9.js
+│   │       ├── cd3c7950.48101df2.js
+│   │       ├── cd80debc.9850d1ea.js
+│   │       ├── ce19ba09.2b3acb62.js
+│   │       ├── ce37eb0f.12f3e499.js
+│   │       ├── ce3dc42d.15d90d57.js
+│   │       ├── ce966125.1471bfe1.js
+│   │       ├── ceeeda7f.7fe70aaf.js
+│   │       ├── cf1dbbb5.45192a34.js
+│   │       ├── cfc9e060.0f1caa95.js
+│   │       ├── cfe56fb1.5c47a021.js
+│   │       ├── d09e9c80.91340c3f.js
+│   │       ├── d0fc60c5.a4f0ffd6.js
+│   │       ├── d11d36af.0f4c30da.js
+│   │       ├── d152ceba.a4e5b167.js
+│   │       ├── d1bfcfe4.6c0edd2a.js
+│   │       ├── d1d341f3.db457dc5.js
+│   │       ├── d232a315.b684d30a.js
+│   │       ├── d303a57d.2f69edfb.js
+│   │       ├── d33103ea.fb2471c5.js
+│   │       ├── d54a8762.ede072c8.js
+│   │       ├── d5625511.14bf738e.js
+│   │       ├── d583133b.573a599c.js
+│   │       ├── d5e7c3b1.d4ec5982.js
+│   │       ├── d6a24304.f09b74aa.js
+│   │       ├── d70e3dbb.b6ab9cb1.js
+│   │       ├── d8ae77bf.5c73f539.js
+│   │       ├── d93def4c.37bc7d58.js
+│   │       ├── d942357b.28d903ce.js
+│   │       ├── d9774b4f.f651605d.js
+│   │       ├── da03e0e6.4f75b8bc.js
+│   │       ├── da54aecf.3e86f7b5.js
+│   │       ├── dae45fcf.6303a4f2.js
+│   │       ├── db116765.5fdcdd84.js
+│   │       ├── dba216f0.3d4c25f9.js
+│   │       ├── dc71bbd6.d3c2e239.js
+│   │       ├── dc728375.f2f2422c.js
+│   │       ├── dcdc88c2.184a343f.js
+│   │       ├── dd1601f0.18d526dd.js
+│   │       ├── dd4d86e5.0bb57b9c.js
+│   │       ├── dd9474d1.002f5269.js
+│   │       ├── ddcdff5d.b4dedf36.js
+│   │       ├── dde466db.f44f6186.js
+│   │       ├── de860e67.caa16eee.js
+│   │       ├── de8d2080.7e77dfee.js
+│   │       ├── dee4a06b.6c3c0895.js
+│   │       ├── df102d17.63b3ef29.js
+│   │       ├── dfdaacfd.fbaaa503.js
+│   │       ├── e0297a95.3c7a2bbc.js
+│   │       ├── e0667867.8472ec6c.js
+│   │       ├── e067feb5.8aab4423.js
+│   │       ├── e099c462.1dbec436.js
+│   │       ├── e1187a33.ff40faf3.js
+│   │       ├── e154af42.d3ac531c.js
+│   │       ├── e156853c.cbc09f46.js
+│   │       ├── e166ede7.52e1d058.js
+│   │       ├── e16966ef.7cb84272.js
+│   │       ├── e1783bb4.e1456d59.js
+│   │       ├── e27c8760.341c1a5b.js
+│   │       ├── e2920ddb.bdfc3803.js
+│   │       ├── e345ec7b.e284b37c.js
+│   │       ├── e353ccf8.0a9776d7.js
+│   │       ├── e3c836af.53003984.js
+│   │       ├── e46cd4d2.545198e2.js
+│   │       ├── e476abbe.2c4ab002.js
+│   │       ├── e53b3dfd.350384ee.js
+│   │       ├── e5e42f34.9d218d68.js
+│   │       ├── e60378e8.fb5c66f2.js
+│   │       ├── e6146b46.2a5d199d.js
+│   │       ├── e69893de.e255e66b.js
+│   │       ├── e6c6f7a0.ce2b19cc.js
+│   │       ├── e6eb5e20.880bd2fe.js
+│   │       ├── e70b05b0.e307b284.js
+│   │       ├── e713d779.f5817f1b.js
+│   │       ├── e77e6528.cfbedbf8.js
+│   │       ├── e79ee8b3.3f0d89c1.js
+│   │       ├── e84585e0.ab411925.js
+│   │       ├── e85f64a2.b81a4dbc.js
+│   │       ├── e8de1862.e0ee836f.js
+│   │       ├── e91826b5.0fe945c9.js
+│   │       ├── e9876575.5be24fc5.js
+│   │       ├── ea2cd0f7.749a368b.js
+│   │       ├── eae94050.c23e1867.js
+│   │       ├── eaee9654.f162e55c.js
+│   │       ├── eb788455.bf615ba8.js
+│   │       ├── ebcd63a8.81081789.js
+│   │       ├── eceab284.a8c2ef53.js
+│   │       ├── ed44e413.72cda5f4.js
+│   │       ├── edaab892.fd12b7f5.js
+│   │       ├── edbdc19e.93e0324d.js
+│   │       ├── ee166328.9bb6c9e8.js
+│   │       ├── ee3bbbcf.3407c24f.js
+│   │       ├── ee64f63b.22d27e81.js
+│   │       ├── ef02b494.b3942611.js
+│   │       ├── ef2e8134.14f054ea.js
+│   │       ├── ef98624e.dddcd5b9.js
+│   │       ├── f01e6d46.52f9a215.js
+│   │       ├── f0a9ac35.c3d3eb24.js
+│   │       ├── f0f7de55.311f89f0.js
+│   │       ├── f137653c.0bcbe3b6.js
+│   │       ├── f197b121.10b6c0ab.js
+│   │       ├── f1a5daf6.23a1f9d1.js
+│   │       ├── f1e8aa27.ce4e277c.js
+│   │       ├── f1f9b6b7.d85ebe7a.js
+│   │       ├── f30d6898.d2f43f57.js
+│   │       ├── f34dc795.aba946dc.js
+│   │       ├── f3626062.e2d5fa80.js
+│   │       ├── f55fcf00.b90f9d6f.js
+│   │       ├── f5c079fd.4bbe3450.js
+│   │       ├── f5c3979c.3fbc6cfc.js
+│   │       ├── f6281b8b.28dbbbc0.js
+│   │       ├── f63e3c8e.389002d3.js
+│   │       ├── f69e7ca9.fdbf84dc.js
+│   │       ├── f6b241e0.c39caf8b.js
+│   │       ├── f6bc8342.f7e77898.js
+│   │       ├── f74fb4e6.99c2d13e.js
+│   │       ├── f7952e32.6519b2e6.js
+│   │       ├── f828cd13.b5b737c7.js
+│   │       ├── f88b0502.2b9675b2.js
+│   │       ├── f89f8bcc.4bd7c85d.js
+│   │       ├── f93286dc.55fe566d.js
+│   │       ├── f95fcf9a.ee191d49.js
+│   │       ├── f98b9a9b.ae0f2e86.js
+│   │       ├── fade6857.f88c27f1.js
+│   │       ├── fae10ee5.2335c97f.js
+│   │       ├── faf318e1.a321efe3.js
+│   │       ├── fb1c8073.45e66648.js
+│   │       ├── fbec8eae.32b591c0.js
+│   │       ├── fc0a64aa.ea0ba131.js
+│   │       ├── fc55df89.967ec21e.js
+│   │       ├── fd107078.b90d530a.js
+│   │       ├── fd14ff49.03c91ad4.js
+│   │       ├── fd2c1644.0ef84cc5.js
+│   │       ├── fdab4dec.e7b73dec.js
+│   │       ├── fde6a2c0.0b1d35d0.js
+│   │       ├── fe37b053.47ef9ced.js
+│   │       ├── fefa3d7f.1a8e00f9.js
+│   │       ├── ff73d5d8.83d3c379.js
+│   │       ├── main.693be3c5.js
+│   │       ├── main.693be3c5.js.LICENSE.txt
+│   │       └── runtime~main.35f1762c.js
+│   ├── Chapter-01
+│   │   ├── IMSAI.jpg
+│   │   ├── levels.jpg
+│   │   ├── machinecycle.gif
+│   │   ├── objectTOload.gif
+│   │   ├── PSPmainboardSmall.jpg
+│   │   └── sourceTOobject.gif
+│   ├── Chapter-02
+│   │   ├── chineseTea.gif
+│   │   ├── Figure2-1.gif
+│   │   ├── Figure2-2.gif
+│   │   ├── Figure2-3.gif
+│   │   ├── Figure2-4.gif
+│   │   ├── OffSwitch.gif
+│   │   ├── oldnorth00.gif
+│   │   ├── shannonSmall.jpg
+│   │   ├── vacuum.gif
+│   │   └── wwatch.gif
+│   ├── Chapter-03
+│   │   └── toggleOff.gif
+│   ├── Chapter-04
+│   │   ├── computerSystem.gif
+│   │   ├── memory01.gif
+│   │   └── virtualMem.gif
+│   ├── Chapter-05
+│   │   ├── 32asr.gif
+│   │   ├── dosTypeExe.gif
+│   │   ├── dosTypeText.gif
+│   │   └── printerA.gif
+│   ├── Chapter-06
+│   │   ├── dice12.gif
+│   │   ├── eggCarton.gif
+│   │   └── radixSummation01.gif
+│   ├── Chapter-07
+│   │   ├── conversionBase5.gif
+│   │   └── NameRelations.gif
+│   ├── Chapter-08
+│   │   ├── addition01.gif
+│   │   ├── addition02.gif
+│   │   ├── addition03.gif
+│   │   ├── binaryAdditionExample.gif
+│   │   ├── binaryAdditionTable.gif
+│   │   └── mysteryNumber.gif
+│   ├── Chapter-09
+│   │   ├── fileMenu.gif
+│   │   ├── loadedSource.gif
+│   │   ├── openFile.gif
+│   │   ├── settings.gif
+│   │   ├── setValue.gif
+│   │   ├── singleStep.gif
+│   │   ├── startAddress.jpg
+│   │   ├── startSpim2.jpg
+│   │   ├── startSpim.jpg
+│   │   └── thirdStep.gif
+│   ├── Chapter-10
+│   │   ├── addProg.gif
+│   │   ├── aluRegisters.gif
+│   │   ├── machinecycle.gif
+│   │   ├── memory01.gif
+│   │   ├── memoryLayout.gif
+│   │   └── sparkCoil.gif
+│   ├── Chapter-11
+│   │   ├── andWork.gif
+│   │   └── orWork.gif
+│   ├── Chapter-12
+│   │   ├── complAss.gif
+│   │   ├── firstShift.gif
+│   │   ├── lshiftLeft.gif
+│   │   ├── lshiftRight.gif
+│   │   └── shiftTwo.gif
+│   ├── Chapter-13
+│   │   ├── addSome.gif
+│   │   ├── handMadeNeg.gif
+│   │   └── signExtention.gif
+│   ├── Chapter-14
+│   │   ├── arithRight.gif
+│   │   ├── divEgRun.gif
+│   │   ├── HiLoDiv.gif
+│   │   ├── HiLoMult.gif
+│   │   └── newMultRun.gif
+│   ├── Chapter-15
+│   │   ├── bigLittleEndian.gif
+│   │   ├── lwProblem.gif
+│   │   ├── lwProblemTwo.gif
+│   │   ├── polyDataSect.gif
+│   │   └── polyRun.gif
+│   ├── Chapter-16
+│   │   ├── endianRun.gif
+│   │   └── finalRun.gif
+│   ├── Chapter-17
+│   │   ├── absValChart.gif
+│   │   ├── beqChart.gif
+│   │   ├── branchDelayRun.gif
+│   │   ├── jumpAddressForm.gif
+│   │   ├── MachineCycle.gif
+│   │   └── twoWayChart.gif
+│   ├── Chapter-18
+│   │   ├── countingLoop.gif
+│   │   ├── countiToTen.gif
+│   │   ├── delaySlotBug.gif
+│   │   ├── tempRange.gif
+│   │   └── thermometer.gif
+│   ├── Chapter-19
+│   │   ├── absIterate.gif
+│   │   ├── addUpSecond.gif
+│   │   ├── addUpStart.gif
+│   │   ├── addUpThird.gif
+│   │   ├── blockSequence.gif
+│   │   ├── codeBlock.gif
+│   │   ├── fourStructures.gif
+│   │   ├── ifExample.gif
+│   │   ├── structureRule1.gif
+│   │   ├── structureRule2.gif
+│   │   ├── structureRule3.gif
+│   │   ├── structureRule4.gif
+│   │   └── universalFlowChart.gif
+│   ├── Chapter-20
+│   │   ├── AddIntArray-2.gif
+│   │   ├── addIntArray.gif
+│   │   ├── continueMenu.gif
+│   │   ├── integerArray.gif
+│   │   ├── nullTermString.gif
+│   │   ├── smallAddIntArray.gif
+│   │   ├── spimString.gif
+│   │   └── strlen.gif
+│   ├── Chapter-21
+│   │   ├── addressUnknown.gif
+│   │   ├── extendAss.gif
+│   │   ├── memPicture.gif
+│   │   ├── pseudocomputer.gif
+│   │   └── SPIMla.gif
+│   ├── Chapter-22
+│   │   ├── exceptionOptions.gif
+│   │   ├── fineLetterB.gif
+│   │   ├── fineLetter.gif
+│   │   └── helloOut.gif
+│   ├── Chapter-23
+│   │   ├── highlight.gif
+│   │   ├── la.gif
+│   │   ├── li.gif
+│   │   ├── move.gif
+│   │   └── shiftRot.gif
+│   ├── Chapter-25
+│   │   ├── stackHello.gif
+│   │   ├── stackInts00.gif
+│   │   ├── stackInts01.gif
+│   │   ├── stackInts02.gif
+│   │   └── stackPlates00.gif
+│   ├── Chapter-26
+│   │   ├── callSummary.jpg
+│   │   ├── jalEg.gif
+│   │   ├── monitor.jpg
+│   │   ├── subManyCorrect.gif
+│   │   ├── subMany.gif
+│   │   └── subOnce.gif
+│   ├── Chapter-27
+│   │   ├── convert.gif
+│   │   ├── design.gif
+│   │   ├── doLines.gif
+│   │   ├── getLine.gif
+│   │   ├── mainCallingA.gif
+│   │   ├── main.gif
+│   │   ├── popetBeads.gif
+│   │   ├── prologEpilog.gif
+│   │   ├── pushPopCall.gif
+│   │   └── wynken.jpg
+│   ├── Chapter-28
+│   │   ├── factChain.gif
+│   │   ├── factPict.gif
+│   │   ├── prologEpilog.gif
+│   │   └── stackFrame00.gif
+│   ├── Chapter-29
+│   │   └── numberLine.jpg
+│   ├── Chapter-30
+│   │   ├── ieee10.jpg
+│   │   ├── IEEE754.jpg
+│   │   ├── scientificNotation.gif
+│   │   └── spim1.gif
+│   ├── Chapter-31
+│   │   ├── moveRegsFloat.jpg
+│   │   ├── moveRegsGeneral.jpg
+│   │   ├── oneOneData.gif
+│   │   ├── polyOut.jpg
+│   │   └── printOutput.jpg
+│   ├── Chapter-32
+│   │   └── fpa.gif
+│   ├── Chapter-33
+│   │   ├── fragmentation.gif
+│   │   └── mallocOnePic.gif
+│   ├── Chapter-34
+│   │   ├── advancePointer.gif
+│   │   ├── coreDump.gif
+│   │   ├── emptyList.gif
+│   │   ├── intLinkedList.gif
+│   │   ├── mustardList.gif
+│   │   ├── primeList.gif
+│   │   └── startLinkedList.gif
+│   ├── Chapter-35
+│   │   ├── firstOfEight.gif
+│   │   ├── generalCase.gif
+│   │   ├── headerList.gif
+│   │   ├── secondOfEight.gif
+│   │   ├── thirdOfEight.gif
+│   │   ├── threeNodeList.gif
+│   │   ├── threeNodeListMemDump.gif
+│   │   ├── threeNodeListSecond.gif
+│   │   ├── threeNodeListStart.gif
+│   │   ├── threeNodeListThird.gif
+│   │   └── twoNodeList.gif
+│   ├── Chapter-36
+│   │   ├── dump01.gif
+│   │   ├── helloWorld.gif
+│   │   ├── objectpicture.gif
+│   │   ├── realObjectPicture.gif
+│   │   └── twoObjects.gif
+│   ├── docs
+│   │   ├── chapter-01
+│   │   │   ├── chapter-01-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-01-14
+│   │   │   │   └── index.html
+│   │   │   └── chapter-01-15
+│   │   │       └── index.html
+│   │   ├── chapter-02
+│   │   │   ├── chapter-02-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-02-14
+│   │   │   │   └── index.html
+│   │   │   └── chapter-02-15
+│   │   │       └── index.html
+│   │   ├── chapter-03
+│   │   │   ├── chapter-03-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-03-10
+│   │   │   │   └── index.html
+│   │   │   └── chapter-03-11
+│   │   │       └── index.html
+│   │   ├── chapter-04
+│   │   │   ├── chapter-04-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-04-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-04-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-04-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-04-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-04-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-04-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-04-08
+│   │   │   │   └── index.html
+│   │   │   └── chapter-04-09
+│   │   │       └── index.html
+│   │   ├── chapter-05
+│   │   │   ├── chapter-05-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-05-12
+│   │   │   │   └── index.html
+│   │   │   └── chapter-05-13
+│   │   │       └── index.html
+│   │   ├── chapter-06
+│   │   │   ├── chapter-06-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-06-14
+│   │   │   │   └── index.html
+│   │   │   └── chapter-06-15
+│   │   │       └── index.html
+│   │   ├── chapter-07
+│   │   │   ├── chapter-07-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-07-20
+│   │   │   │   └── index.html
+│   │   │   └── chapter-07-21
+│   │   │       └── index.html
+│   │   ├── chapter-08
+│   │   │   ├── chapter-08-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-21
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-22
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-23
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-24
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-25
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-26
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-27
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-28
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-08-29
+│   │   │   │   └── index.html
+│   │   │   └── chapter-08-30
+│   │   │       └── index.html
+│   │   ├── chapter-09
+│   │   │   ├── chapter-09-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-09-15
+│   │   │   │   └── index.html
+│   │   │   └── chapter-09-16
+│   │   │       └── index.html
+│   │   ├── chapter-10
+│   │   │   ├── chapter-10-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-10-11
+│   │   │   │   └── index.html
+│   │   │   └── chapter-10-12
+│   │   │       └── index.html
+│   │   ├── chapter-11
+│   │   │   ├── chapter-11-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-11-13
+│   │   │   │   └── index.html
+│   │   │   └── chapter-11-14
+│   │   │       └── index.html
+│   │   ├── chapter-12
+│   │   │   ├── chapter-12-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-21
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-12-22
+│   │   │   │   └── index.html
+│   │   │   └── chapter-12-23
+│   │   │       └── index.html
+│   │   ├── chapter-13
+│   │   │   ├── chapter-13-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-13-14
+│   │   │   │   └── index.html
+│   │   │   └── chapter-13-15
+│   │   │       └── index.html
+│   │   ├── chapter-14
+│   │   │   ├── chapter-14-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-14-14
+│   │   │   │   └── index.html
+│   │   │   └── chapter-14-15
+│   │   │       └── index.html
+│   │   ├── chapter-15
+│   │   │   ├── chapter-15-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-15-20
+│   │   │   │   └── index.html
+│   │   │   └── chapter-15-21
+│   │   │       └── index.html
+│   │   ├── chapter-16
+│   │   │   ├── chapter-16-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-16-10
+│   │   │   │   └── index.html
+│   │   │   └── chapter-16-11
+│   │   │       └── index.html
+│   │   ├── chapter-17
+│   │   │   ├── chapter-17-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-17-17
+│   │   │   │   └── index.html
+│   │   │   └── chapter-17-18
+│   │   │       └── index.html
+│   │   ├── chapter-18
+│   │   │   ├── chapter-18-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-18-13
+│   │   │   │   └── index.html
+│   │   │   └── chapter-18-14
+│   │   │       └── index.html
+│   │   ├── chapter-19
+│   │   │   ├── chapter-19-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-21
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-22
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-23
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-19-24
+│   │   │   │   └── index.html
+│   │   │   └── chapter-19-25
+│   │   │       └── index.html
+│   │   ├── chapter-20
+│   │   │   ├── chapter-20-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-20-16
+│   │   │   │   └── index.html
+│   │   │   └── chapter-20-17
+│   │   │       └── index.html
+│   │   ├── chapter-21
+│   │   │   ├── chapter-21-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-21
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-21-22
+│   │   │   │   └── index.html
+│   │   │   └── chapter-21-23
+│   │   │       └── index.html
+│   │   ├── chapter-22
+│   │   │   ├── chapter-22-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-22-13
+│   │   │   │   └── index.html
+│   │   │   └── chapter-22-14
+│   │   │       └── index.html
+│   │   ├── chapter-23
+│   │   │   ├── chapter-23-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-23-15
+│   │   │   │   └── index.html
+│   │   │   └── chapter-23-16
+│   │   │       └── index.html
+│   │   ├── chapter-24
+│   │   │   ├── chapter-24-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-24-15
+│   │   │   │   └── index.html
+│   │   │   └── chapter-24-16
+│   │   │       └── index.html
+│   │   ├── chapter-25
+│   │   │   ├── chapter-25-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-25-15
+│   │   │   │   └── index.html
+│   │   │   └── chapter-25-16
+│   │   │       └── index.html
+│   │   ├── chapter-26
+│   │   │   ├── chapter-26-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-26-15
+│   │   │   │   └── index.html
+│   │   │   └── chapter-26-16
+│   │   │       └── index.html
+│   │   ├── chapter-27
+│   │   │   ├── chapter-27-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-21
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-22
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-23
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-24
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-25
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-26
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-27
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-28
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-29
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-27-30
+│   │   │   │   └── index.html
+│   │   │   └── chapter-27-31
+│   │   │       └── index.html
+│   │   ├── chapter-28
+│   │   │   ├── chapter-28-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-21
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-22
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-23
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-24
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-25
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-26
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-27
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-28-28
+│   │   │   │   └── index.html
+│   │   │   └── chapter-28-29
+│   │   │       └── index.html
+│   │   ├── chapter-29
+│   │   │   ├── chapter-29-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-29-19
+│   │   │   │   └── index.html
+│   │   │   └── chapter-29-20
+│   │   │       └── index.html
+│   │   ├── chapter-30
+│   │   │   ├── chapter-30-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-30-20
+│   │   │   │   └── index.html
+│   │   │   └── chapter-30-21
+│   │   │       └── index.html
+│   │   ├── chapter-31
+│   │   │   ├── chapter-31-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-21
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-22
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-23
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-31-24
+│   │   │   │   └── index.html
+│   │   │   └── chapter-31-25
+│   │   │       └── index.html
+│   │   ├── chapter-32
+│   │   │   ├── chapter-32-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-32-14
+│   │   │   │   └── index.html
+│   │   │   └── chapter-32-15
+│   │   │       └── index.html
+│   │   ├── chapter-33
+│   │   │   ├── chapter-33-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-33-21
+│   │   │   │   └── index.html
+│   │   │   └── chapter-33-22
+│   │   │       └── index.html
+│   │   ├── chapter-34
+│   │   │   ├── chapter-34-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-34-16
+│   │   │   │   └── index.html
+│   │   │   └── chapter-34-17
+│   │   │       └── index.html
+│   │   ├── chapter-35
+│   │   │   ├── chapter-35-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-35-18
+│   │   │   │   └── index.html
+│   │   │   └── chapter-35-19
+│   │   │       └── index.html
+│   │   ├── chapter-36
+│   │   │   ├── chapter-36-01
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-02
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-03
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-04
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-05
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-06
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-07
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-08
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-09
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-10
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-11
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-12
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-13
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-14
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-15
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-16
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-17
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-18
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-19
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-20
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-21
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-22
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-23
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-24
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-25
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-26
+│   │   │   │   └── index.html
+│   │   │   ├── chapter-36-27
+│   │   │   │   └── index.html
+│   │   │   └── chapter-36-28
+│   │   │       └── index.html
+│   │   └── intro
+│   │       └── index.html
+│   ├── img
+│   │   ├── docusaurus.png
+│   │   ├── docusaurus-social-card.jpg
+│   │   ├── favicon.ico
+│   │   ├── logo.svg
+│   │   ├── undraw_docusaurus_mountain.svg
+│   │   ├── undraw_docusaurus_react.svg
+│   │   └── undraw_docusaurus_tree.svg
+│   ├── index.html
+│   ├── markdown-page
+│   │   └── index.html
+│   ├── sitemap.xml
+│   └── title.gif
+├── bun.lockb
+├── docs
+│   ├── chapter-01
+│   │   ├── chapter-01-01.md
+│   │   ├── chapter-01-02.md
+│   │   ├── chapter-01-03.md
+│   │   ├── chapter-01-04.md
+│   │   ├── chapter-01-05.md
+│   │   ├── chapter-01-06.md
+│   │   ├── chapter-01-07.md
+│   │   ├── chapter-01-08.md
+│   │   ├── chapter-01-09.md
+│   │   ├── chapter-01-10.md
+│   │   ├── chapter-01-11.md
+│   │   ├── chapter-01-12.md
+│   │   ├── chapter-01-13.md
+│   │   ├── chapter-01-14.md
+│   │   └── chapter-01-15.md
+│   ├── chapter-02
+│   │   ├── chapter-02-01.md
+│   │   ├── chapter-02-02.md
+│   │   ├── chapter-02-03.md
+│   │   ├── chapter-02-04.md
+│   │   ├── chapter-02-05.md
+│   │   ├── chapter-02-06.md
+│   │   ├── chapter-02-07.md
+│   │   ├── chapter-02-08.md
+│   │   ├── chapter-02-09.md
+│   │   ├── chapter-02-10.md
+│   │   ├── chapter-02-11.md
+│   │   ├── chapter-02-12.md
+│   │   ├── chapter-02-13.md
+│   │   ├── chapter-02-14.md
+│   │   └── chapter-02-15.md
+│   ├── chapter-03
+│   │   ├── chapter-03-01.md
+│   │   ├── chapter-03-02.md
+│   │   ├── chapter-03-03.md
+│   │   ├── chapter-03-04.md
+│   │   ├── chapter-03-05.md
+│   │   ├── chapter-03-06.md
+│   │   ├── chapter-03-07.md
+│   │   ├── chapter-03-08.md
+│   │   ├── chapter-03-09.md
+│   │   ├── chapter-03-10.md
+│   │   └── chapter-03-11.md
+│   ├── chapter-04
+│   │   ├── chapter-04-01.md
+│   │   ├── chapter-04-02.md
+│   │   ├── chapter-04-03.md
+│   │   ├── chapter-04-04.md
+│   │   ├── chapter-04-05.md
+│   │   ├── chapter-04-06.md
+│   │   ├── chapter-04-07.md
+│   │   ├── chapter-04-08.md
+│   │   └── chapter-04-09.md
+│   ├── chapter-05
+│   │   ├── chapter-05-01.md
+│   │   ├── chapter-05-02.md
+│   │   ├── chapter-05-03.md
+│   │   ├── chapter-05-04.md
+│   │   ├── chapter-05-05.md
+│   │   ├── chapter-05-06.md
+│   │   ├── chapter-05-07.md
+│   │   ├── chapter-05-08.md
+│   │   ├── chapter-05-09.md
+│   │   ├── chapter-05-10.md
+│   │   ├── chapter-05-11.md
+│   │   ├── chapter-05-12.md
+│   │   └── chapter-05-13.md
+│   ├── chapter-06
+│   │   ├── chapter-06-01.md
+│   │   ├── chapter-06-02.md
+│   │   ├── chapter-06-03.md
+│   │   ├── chapter-06-04.md
+│   │   ├── chapter-06-05.md
+│   │   ├── chapter-06-06.md
+│   │   ├── chapter-06-07.md
+│   │   ├── chapter-06-08.md
+│   │   ├── chapter-06-09.md
+│   │   ├── chapter-06-10.md
+│   │   ├── chapter-06-11.md
+│   │   ├── chapter-06-12.md
+│   │   ├── chapter-06-13.md
+│   │   ├── chapter-06-14.md
+│   │   └── chapter-06-15.md
+│   ├── chapter-07
+│   │   ├── chapter-07-01.md
+│   │   ├── chapter-07-02.md
+│   │   ├── chapter-07-03.md
+│   │   ├── chapter-07-04.md
+│   │   ├── chapter-07-05.md
+│   │   ├── chapter-07-06.md
+│   │   ├── chapter-07-07.md
+│   │   ├── chapter-07-08.md
+│   │   ├── chapter-07-09.md
+│   │   ├── chapter-07-10.md
+│   │   ├── chapter-07-11.md
+│   │   ├── chapter-07-12.md
+│   │   ├── chapter-07-13.md
+│   │   ├── chapter-07-14.md
+│   │   ├── chapter-07-15.md
+│   │   ├── chapter-07-16.md
+│   │   ├── chapter-07-17.md
+│   │   ├── chapter-07-18.md
+│   │   ├── chapter-07-19.md
+│   │   ├── chapter-07-20.md
+│   │   └── chapter-07-21.md
+│   ├── chapter-08
+│   │   ├── chapter-08-01.md
+│   │   ├── chapter-08-02.md
+│   │   ├── chapter-08-03.md
+│   │   ├── chapter-08-04.md
+│   │   ├── chapter-08-05.md
+│   │   ├── chapter-08-06.md
+│   │   ├── chapter-08-07.md
+│   │   ├── chapter-08-08.md
+│   │   ├── chapter-08-09.md
+│   │   ├── chapter-08-10.md
+│   │   ├── chapter-08-11.md
+│   │   ├── chapter-08-12.md
+│   │   ├── chapter-08-13.md
+│   │   ├── chapter-08-14.md
+│   │   ├── chapter-08-15.md
+│   │   ├── chapter-08-16.md
+│   │   ├── chapter-08-17.md
+│   │   ├── chapter-08-18.md
+│   │   ├── chapter-08-19.md
+│   │   ├── chapter-08-20.md
+│   │   ├── chapter-08-21.md
+│   │   ├── chapter-08-22.md
+│   │   ├── chapter-08-23.md
+│   │   ├── chapter-08-24.md
+│   │   ├── chapter-08-25.md
+│   │   ├── chapter-08-26.md
+│   │   ├── chapter-08-27.md
+│   │   ├── chapter-08-28.md
+│   │   ├── chapter-08-29.md
+│   │   └── chapter-08-30.md
+│   ├── chapter-09
+│   │   ├── chapter-09-01.md
+│   │   ├── chapter-09-02.md
+│   │   ├── chapter-09-03.md
+│   │   ├── chapter-09-04.md
+│   │   ├── chapter-09-05.md
+│   │   ├── chapter-09-06.md
+│   │   ├── chapter-09-07.md
+│   │   ├── chapter-09-08.md
+│   │   ├── chapter-09-09.md
+│   │   ├── chapter-09-10.md
+│   │   ├── chapter-09-11.md
+│   │   ├── chapter-09-12.md
+│   │   ├── chapter-09-13.md
+│   │   ├── chapter-09-14.md
+│   │   ├── chapter-09-15.md
+│   │   └── chapter-09-16.md
+│   ├── chapter-10
+│   │   ├── chapter-10-01.md
+│   │   ├── chapter-10-02.md
+│   │   ├── chapter-10-03.md
+│   │   ├── chapter-10-04.md
+│   │   ├── chapter-10-05.md
+│   │   ├── chapter-10-06.md
+│   │   ├── chapter-10-07.md
+│   │   ├── chapter-10-08.md
+│   │   ├── chapter-10-09.md
+│   │   ├── chapter-10-10.md
+│   │   ├── chapter-10-11.md
+│   │   └── chapter-10-12.md
+│   ├── chapter-11
+│   │   ├── chapter-11-01.md
+│   │   ├── chapter-11-02.md
+│   │   ├── chapter-11-03.md
+│   │   ├── chapter-11-04.md
+│   │   ├── chapter-11-05.md
+│   │   ├── chapter-11-06.md
+│   │   ├── chapter-11-07.md
+│   │   ├── chapter-11-08.md
+│   │   ├── chapter-11-09.md
+│   │   ├── chapter-11-10.md
+│   │   ├── chapter-11-11.md
+│   │   ├── chapter-11-12.md
+│   │   ├── chapter-11-13.md
+│   │   └── chapter-11-14.md
+│   ├── chapter-12
+│   │   ├── chapter-12-01.md
+│   │   ├── chapter-12-02.md
+│   │   ├── chapter-12-03.md
+│   │   ├── chapter-12-04.md
+│   │   ├── chapter-12-05.md
+│   │   ├── chapter-12-06.md
+│   │   ├── chapter-12-07.md
+│   │   ├── chapter-12-08.md
+│   │   ├── chapter-12-09.md
+│   │   ├── chapter-12-10.md
+│   │   ├── chapter-12-11.md
+│   │   ├── chapter-12-12.md
+│   │   ├── chapter-12-13.md
+│   │   ├── chapter-12-14.md
+│   │   ├── chapter-12-15.md
+│   │   ├── chapter-12-16.md
+│   │   ├── chapter-12-17.md
+│   │   ├── chapter-12-18.md
+│   │   ├── chapter-12-19.md
+│   │   ├── chapter-12-20.md
+│   │   ├── chapter-12-21.md
+│   │   ├── chapter-12-22.md
+│   │   └── chapter-12-23.md
+│   ├── chapter-13
+│   │   ├── chapter-13-01.md
+│   │   ├── chapter-13-02.md
+│   │   ├── chapter-13-03.md
+│   │   ├── chapter-13-04.md
+│   │   ├── chapter-13-05.md
+│   │   ├── chapter-13-06.md
+│   │   ├── chapter-13-07.md
+│   │   ├── chapter-13-08.md
+│   │   ├── chapter-13-09.md
+│   │   ├── chapter-13-10.md
+│   │   ├── chapter-13-11.md
+│   │   ├── chapter-13-12.md
+│   │   ├── chapter-13-13.md
+│   │   ├── chapter-13-14.md
+│   │   └── chapter-13-15.md
+│   ├── chapter-14
+│   │   ├── chapter-14-01.md
+│   │   ├── chapter-14-02.md
+│   │   ├── chapter-14-03.md
+│   │   ├── chapter-14-04.md
+│   │   ├── chapter-14-05.md
+│   │   ├── chapter-14-06.md
+│   │   ├── chapter-14-07.md
+│   │   ├── chapter-14-08.md
+│   │   ├── chapter-14-09.md
+│   │   ├── chapter-14-10.md
+│   │   ├── chapter-14-11.md
+│   │   ├── chapter-14-12.md
+│   │   ├── chapter-14-13.md
+│   │   ├── chapter-14-14.md
+│   │   └── chapter-14-15.md
+│   ├── chapter-15
+│   │   ├── chapter-15-01.md
+│   │   ├── chapter-15-02.md
+│   │   ├── chapter-15-03.md
+│   │   ├── chapter-15-04.md
+│   │   ├── chapter-15-05.md
+│   │   ├── chapter-15-06.md
+│   │   ├── chapter-15-07.md
+│   │   ├── chapter-15-08.md
+│   │   ├── chapter-15-09.md
+│   │   ├── chapter-15-10.md
+│   │   ├── chapter-15-11.md
+│   │   ├── chapter-15-12.md
+│   │   ├── chapter-15-13.md
+│   │   ├── chapter-15-14.md
+│   │   ├── chapter-15-15.md
+│   │   ├── chapter-15-16.md
+│   │   ├── chapter-15-17.md
+│   │   ├── chapter-15-18.md
+│   │   ├── chapter-15-19.md
+│   │   ├── chapter-15-20.md
+│   │   └── chapter-15-21.md
+│   ├── chapter-16
+│   │   ├── chapter-16-01.md
+│   │   ├── chapter-16-02.md
+│   │   ├── chapter-16-03.md
+│   │   ├── chapter-16-04.md
+│   │   ├── chapter-16-05.md
+│   │   ├── chapter-16-06.md
+│   │   ├── chapter-16-07.md
+│   │   ├── chapter-16-08.md
+│   │   ├── chapter-16-09.md
+│   │   ├── chapter-16-10.md
+│   │   └── chapter-16-11.md
+│   ├── chapter-17
+│   │   ├── chapter-17-01.md
+│   │   ├── chapter-17-02.md
+│   │   ├── chapter-17-03.md
+│   │   ├── chapter-17-04.md
+│   │   ├── chapter-17-05.md
+│   │   ├── chapter-17-06.md
+│   │   ├── chapter-17-07.md
+│   │   ├── chapter-17-08.md
+│   │   ├── chapter-17-09.md
+│   │   ├── chapter-17-10.md
+│   │   ├── chapter-17-11.md
+│   │   ├── chapter-17-12.md
+│   │   ├── chapter-17-13.md
+│   │   ├── chapter-17-14.md
+│   │   ├── chapter-17-15.md
+│   │   ├── chapter-17-16.md
+│   │   ├── chapter-17-17.md
+│   │   └── chapter-17-18.md
+│   ├── chapter-18
+│   │   ├── chapter-18-01.md
+│   │   ├── chapter-18-02.md
+│   │   ├── chapter-18-03.md
+│   │   ├── chapter-18-04.md
+│   │   ├── chapter-18-05.md
+│   │   ├── chapter-18-06.md
+│   │   ├── chapter-18-07.md
+│   │   ├── chapter-18-08.md
+│   │   ├── chapter-18-09.md
+│   │   ├── chapter-18-10.md
+│   │   ├── chapter-18-11.md
+│   │   ├── chapter-18-12.md
+│   │   ├── chapter-18-13.md
+│   │   └── chapter-18-14.md
+│   ├── chapter-19
+│   │   ├── chapter-19-01.md
+│   │   ├── chapter-19-02.md
+│   │   ├── chapter-19-03.md
+│   │   ├── chapter-19-04.md
+│   │   ├── chapter-19-05.md
+│   │   ├── chapter-19-06.md
+│   │   ├── chapter-19-07.md
+│   │   ├── chapter-19-08.md
+│   │   ├── chapter-19-09.md
+│   │   ├── chapter-19-10.md
+│   │   ├── chapter-19-11.md
+│   │   ├── chapter-19-12.md
+│   │   ├── chapter-19-13.md
+│   │   ├── chapter-19-14.md
+│   │   ├── chapter-19-15.md
+│   │   ├── chapter-19-16.md
+│   │   ├── chapter-19-17.md
+│   │   ├── chapter-19-18.md
+│   │   ├── chapter-19-19.md
+│   │   ├── chapter-19-20.md
+│   │   ├── chapter-19-21.md
+│   │   ├── chapter-19-22.md
+│   │   ├── chapter-19-23.md
+│   │   ├── chapter-19-24.md
+│   │   └── chapter-19-25.md
+│   ├── chapter-20
+│   │   ├── chapter-20-01.md
+│   │   ├── chapter-20-02.md
+│   │   ├── chapter-20-03.md
+│   │   ├── chapter-20-04.md
+│   │   ├── chapter-20-05.md
+│   │   ├── chapter-20-06.md
+│   │   ├── chapter-20-07.md
+│   │   ├── chapter-20-08.md
+│   │   ├── chapter-20-09.md
+│   │   ├── chapter-20-10.md
+│   │   ├── chapter-20-11.md
+│   │   ├── chapter-20-12.md
+│   │   ├── chapter-20-13.md
+│   │   ├── chapter-20-14.md
+│   │   ├── chapter-20-15.md
+│   │   ├── chapter-20-16.md
+│   │   └── chapter-20-17.md
+│   ├── chapter-21
+│   │   ├── chapter-21-01.md
+│   │   ├── chapter-21-02.md
+│   │   ├── chapter-21-03.md
+│   │   ├── chapter-21-04.md
+│   │   ├── chapter-21-05.md
+│   │   ├── chapter-21-06.md
+│   │   ├── chapter-21-07.md
+│   │   ├── chapter-21-08.md
+│   │   ├── chapter-21-09.md
+│   │   ├── chapter-21-10.md
+│   │   ├── chapter-21-11.md
+│   │   ├── chapter-21-12.md
+│   │   ├── chapter-21-13.md
+│   │   ├── chapter-21-14.md
+│   │   ├── chapter-21-15.md
+│   │   ├── chapter-21-16.md
+│   │   ├── chapter-21-17.md
+│   │   ├── chapter-21-18.md
+│   │   ├── chapter-21-19.md
+│   │   ├── chapter-21-20.md
+│   │   ├── chapter-21-21.md
+│   │   ├── chapter-21-22.md
+│   │   └── chapter-21-23.md
+│   ├── chapter-22
+│   │   ├── chapter-22-01.md
+│   │   ├── chapter-22-02.md
+│   │   ├── chapter-22-03.md
+│   │   ├── chapter-22-04.md
+│   │   ├── chapter-22-05.md
+│   │   ├── chapter-22-06.md
+│   │   ├── chapter-22-07.md
+│   │   ├── chapter-22-08.md
+│   │   ├── chapter-22-09.md
+│   │   ├── chapter-22-10.md
+│   │   ├── chapter-22-11.md
+│   │   ├── chapter-22-12.md
+│   │   ├── chapter-22-13.md
+│   │   └── chapter-22-14.md
+│   ├── chapter-23
+│   │   ├── chapter-23-01.md
+│   │   ├── chapter-23-02.md
+│   │   ├── chapter-23-03.md
+│   │   ├── chapter-23-04.md
+│   │   ├── chapter-23-05.md
+│   │   ├── chapter-23-06.md
+│   │   ├── chapter-23-07.md
+│   │   ├── chapter-23-08.md
+│   │   ├── chapter-23-09.md
+│   │   ├── chapter-23-10.md
+│   │   ├── chapter-23-11.md
+│   │   ├── chapter-23-12.md
+│   │   ├── chapter-23-13.md
+│   │   ├── chapter-23-14.md
+│   │   ├── chapter-23-15.md
+│   │   └── chapter-23-16.md
+│   ├── chapter-24
+│   │   ├── chapter-24-01.md
+│   │   ├── chapter-24-02.md
+│   │   ├── chapter-24-03.md
+│   │   ├── chapter-24-04.md
+│   │   ├── chapter-24-05.md
+│   │   ├── chapter-24-06.md
+│   │   ├── chapter-24-07.md
+│   │   ├── chapter-24-08.md
+│   │   ├── chapter-24-09.md
+│   │   ├── chapter-24-10.md
+│   │   ├── chapter-24-11.md
+│   │   ├── chapter-24-12.md
+│   │   ├── chapter-24-13.md
+│   │   ├── chapter-24-14.md
+│   │   ├── chapter-24-15.md
+│   │   └── chapter-24-16.md
+│   ├── chapter-25
+│   │   ├── chapter-25-01.md
+│   │   ├── chapter-25-02.md
+│   │   ├── chapter-25-03.md
+│   │   ├── chapter-25-04.md
+│   │   ├── chapter-25-05.md
+│   │   ├── chapter-25-06.md
+│   │   ├── chapter-25-07.md
+│   │   ├── chapter-25-08.md
+│   │   ├── chapter-25-09.md
+│   │   ├── chapter-25-10.md
+│   │   ├── chapter-25-11.md
+│   │   ├── chapter-25-12.md
+│   │   ├── chapter-25-13.md
+│   │   ├── chapter-25-14.md
+│   │   ├── chapter-25-15.md
+│   │   └── chapter-25-16.md
+│   ├── chapter-26
+│   │   ├── chapter-26-01.md
+│   │   ├── chapter-26-02.md
+│   │   ├── chapter-26-03.md
+│   │   ├── chapter-26-04.md
+│   │   ├── chapter-26-05.md
+│   │   ├── chapter-26-06.md
+│   │   ├── chapter-26-07.md
+│   │   ├── chapter-26-08.md
+│   │   ├── chapter-26-09.md
+│   │   ├── chapter-26-10.md
+│   │   ├── chapter-26-11.md
+│   │   ├── chapter-26-12.md
+│   │   ├── chapter-26-13.md
+│   │   ├── chapter-26-14.md
+│   │   ├── chapter-26-15.md
+│   │   └── chapter-26-16.md
+│   ├── chapter-27
+│   │   ├── chapter-27-01.md
+│   │   ├── chapter-27-02.md
+│   │   ├── chapter-27-03.md
+│   │   ├── chapter-27-04.md
+│   │   ├── chapter-27-05.md
+│   │   ├── chapter-27-06.md
+│   │   ├── chapter-27-07.md
+│   │   ├── chapter-27-08.md
+│   │   ├── chapter-27-09.md
+│   │   ├── chapter-27-10.md
+│   │   ├── chapter-27-11.md
+│   │   ├── chapter-27-12.md
+│   │   ├── chapter-27-13.md
+│   │   ├── chapter-27-14.md
+│   │   ├── chapter-27-15.md
+│   │   ├── chapter-27-16.md
+│   │   ├── chapter-27-17.md
+│   │   ├── chapter-27-18.md
+│   │   ├── chapter-27-19.md
+│   │   ├── chapter-27-20.md
+│   │   ├── chapter-27-21.md
+│   │   ├── chapter-27-22.md
+│   │   ├── chapter-27-23.md
+│   │   ├── chapter-27-24.md
+│   │   ├── chapter-27-25.md
+│   │   ├── chapter-27-26.md
+│   │   ├── chapter-27-27.md
+│   │   ├── chapter-27-28.md
+│   │   ├── chapter-27-29.md
+│   │   ├── chapter-27-30.md
+│   │   └── chapter-27-31.md
+│   ├── chapter-28
+│   │   ├── chapter-28-01.md
+│   │   ├── chapter-28-02.md
+│   │   ├── chapter-28-03.md
+│   │   ├── chapter-28-04.md
+│   │   ├── chapter-28-05.md
+│   │   ├── chapter-28-06.md
+│   │   ├── chapter-28-07.md
+│   │   ├── chapter-28-08.md
+│   │   ├── chapter-28-09.md
+│   │   ├── chapter-28-10.md
+│   │   ├── chapter-28-11.md
+│   │   ├── chapter-28-12.md
+│   │   ├── chapter-28-13.md
+│   │   ├── chapter-28-14.md
+│   │   ├── chapter-28-15.md
+│   │   ├── chapter-28-16.md
+│   │   ├── chapter-28-17.md
+│   │   ├── chapter-28-18.md
+│   │   ├── chapter-28-19.md
+│   │   ├── chapter-28-20.md
+│   │   ├── chapter-28-21.md
+│   │   ├── chapter-28-22.md
+│   │   ├── chapter-28-23.md
+│   │   ├── chapter-28-24.md
+│   │   ├── chapter-28-25.md
+│   │   ├── chapter-28-26.md
+│   │   ├── chapter-28-27.md
+│   │   ├── chapter-28-28.md
+│   │   └── chapter-28-29.md
+│   ├── chapter-29
+│   │   ├── chapter-29-01.md
+│   │   ├── chapter-29-02.md
+│   │   ├── chapter-29-03.md
+│   │   ├── chapter-29-04.md
+│   │   ├── chapter-29-05.md
+│   │   ├── chapter-29-06.md
+│   │   ├── chapter-29-07.md
+│   │   ├── chapter-29-08.md
+│   │   ├── chapter-29-09.md
+│   │   ├── chapter-29-10.md
+│   │   ├── chapter-29-11.md
+│   │   ├── chapter-29-12.md
+│   │   ├── chapter-29-13.md
+│   │   ├── chapter-29-14.md
+│   │   ├── chapter-29-15.md
+│   │   ├── chapter-29-16.md
+│   │   ├── chapter-29-17.md
+│   │   ├── chapter-29-18.md
+│   │   ├── chapter-29-19.md
+│   │   └── chapter-29-20.md
+│   ├── chapter-30
+│   │   ├── chapter-30-01.md
+│   │   ├── chapter-30-02.md
+│   │   ├── chapter-30-03.md
+│   │   ├── chapter-30-04.md
+│   │   ├── chapter-30-05.md
+│   │   ├── chapter-30-06.md
+│   │   ├── chapter-30-07.md
+│   │   ├── chapter-30-08.md
+│   │   ├── chapter-30-09.md
+│   │   ├── chapter-30-10.md
+│   │   ├── chapter-30-11.md
+│   │   ├── chapter-30-12.md
+│   │   ├── chapter-30-13.md
+│   │   ├── chapter-30-14.md
+│   │   ├── chapter-30-15.md
+│   │   ├── chapter-30-16.md
+│   │   ├── chapter-30-17.md
+│   │   ├── chapter-30-18.md
+│   │   ├── chapter-30-19.md
+│   │   ├── chapter-30-20.md
+│   │   └── chapter-30-21.md
+│   ├── chapter-31
+│   │   ├── chapter-31-01.md
+│   │   ├── chapter-31-02.md
+│   │   ├── chapter-31-03.md
+│   │   ├── chapter-31-04.md
+│   │   ├── chapter-31-05.md
+│   │   ├── chapter-31-06.md
+│   │   ├── chapter-31-07.md
+│   │   ├── chapter-31-08.md
+│   │   ├── chapter-31-09.md
+│   │   ├── chapter-31-10.md
+│   │   ├── chapter-31-11.md
+│   │   ├── chapter-31-12.md
+│   │   ├── chapter-31-13.md
+│   │   ├── chapter-31-14.md
+│   │   ├── chapter-31-15.md
+│   │   ├── chapter-31-16.md
+│   │   ├── chapter-31-17.md
+│   │   ├── chapter-31-18.md
+│   │   ├── chapter-31-19.md
+│   │   ├── chapter-31-20.md
+│   │   ├── chapter-31-21.md
+│   │   ├── chapter-31-22.md
+│   │   ├── chapter-31-23.md
+│   │   ├── chapter-31-24.md
+│   │   └── chapter-31-25.md
+│   ├── chapter-32
+│   │   ├── chapter-32-01.md
+│   │   ├── chapter-32-02.md
+│   │   ├── chapter-32-03.md
+│   │   ├── chapter-32-04.md
+│   │   ├── chapter-32-05.md
+│   │   ├── chapter-32-06.md
+│   │   ├── chapter-32-07.md
+│   │   ├── chapter-32-08.md
+│   │   ├── chapter-32-09.md
+│   │   ├── chapter-32-10.md
+│   │   ├── chapter-32-11.md
+│   │   ├── chapter-32-12.md
+│   │   ├── chapter-32-13.md
+│   │   ├── chapter-32-14.md
+│   │   └── chapter-32-15.md
+│   ├── chapter-33
+│   │   ├── chapter-33-01.md
+│   │   ├── chapter-33-02.md
+│   │   ├── chapter-33-03.md
+│   │   ├── chapter-33-04.md
+│   │   ├── chapter-33-05.md
+│   │   ├── chapter-33-06.md
+│   │   ├── chapter-33-07.md
+│   │   ├── chapter-33-08.md
+│   │   ├── chapter-33-09.md
+│   │   ├── chapter-33-10.md
+│   │   ├── chapter-33-11.md
+│   │   ├── chapter-33-12.md
+│   │   ├── chapter-33-13.md
+│   │   ├── chapter-33-14.md
+│   │   ├── chapter-33-15.md
+│   │   ├── chapter-33-16.md
+│   │   ├── chapter-33-17.md
+│   │   ├── chapter-33-18.md
+│   │   ├── chapter-33-19.md
+│   │   ├── chapter-33-20.md
+│   │   ├── chapter-33-21.md
+│   │   └── chapter-33-22.md
+│   ├── chapter-34
+│   │   ├── chapter-34-01.md
+│   │   ├── chapter-34-02.md
+│   │   ├── chapter-34-03.md
+│   │   ├── chapter-34-04.md
+│   │   ├── chapter-34-05.md
+│   │   ├── chapter-34-06.md
+│   │   ├── chapter-34-07.md
+│   │   ├── chapter-34-08.md
+│   │   ├── chapter-34-09.md
+│   │   ├── chapter-34-10.md
+│   │   ├── chapter-34-11.md
+│   │   ├── chapter-34-12.md
+│   │   ├── chapter-34-13.md
+│   │   ├── chapter-34-14.md
+│   │   ├── chapter-34-15.md
+│   │   ├── chapter-34-16.md
+│   │   └── chapter-34-17.md
+│   ├── chapter-35
+│   │   ├── chapter-35-01.md
+│   │   ├── chapter-35-02.md
+│   │   ├── chapter-35-03.md
+│   │   ├── chapter-35-04.md
+│   │   ├── chapter-35-05.md
+│   │   ├── chapter-35-06.md
+│   │   ├── chapter-35-07.md
+│   │   ├── chapter-35-08.md
+│   │   ├── chapter-35-09.md
+│   │   ├── chapter-35-10.md
+│   │   ├── chapter-35-11.md
+│   │   ├── chapter-35-12.md
+│   │   ├── chapter-35-13.md
+│   │   ├── chapter-35-14.md
+│   │   ├── chapter-35-15.md
+│   │   ├── chapter-35-16.md
+│   │   ├── chapter-35-17.md
+│   │   ├── chapter-35-18.md
+│   │   └── chapter-35-19.md
+│   ├── chapter-36
+│   │   ├── chapter-36-01.md
+│   │   ├── chapter-36-02.md
+│   │   ├── chapter-36-03.md
+│   │   ├── chapter-36-04.md
+│   │   ├── chapter-36-05.md
+│   │   ├── chapter-36-06.md
+│   │   ├── chapter-36-07.md
+│   │   ├── chapter-36-08.md
+│   │   ├── chapter-36-09.md
+│   │   ├── chapter-36-10.md
+│   │   ├── chapter-36-11.md
+│   │   ├── chapter-36-12.md
+│   │   ├── chapter-36-13.md
+│   │   ├── chapter-36-14.md
+│   │   ├── chapter-36-15.md
+│   │   ├── chapter-36-16.md
+│   │   ├── chapter-36-17.md
+│   │   ├── chapter-36-18.md
+│   │   ├── chapter-36-19.md
+│   │   ├── chapter-36-20.md
+│   │   ├── chapter-36-21.md
+│   │   ├── chapter-36-22.md
+│   │   ├── chapter-36-23.md
+│   │   ├── chapter-36-24.md
+│   │   ├── chapter-36-25.md
+│   │   ├── chapter-36-26.md
+│   │   ├── chapter-36-27.md
+│   │   └── chapter-36-28.md
+│   └── intro.md
+├── docusaurus.config.ts
+├── original
+│   ├── assemblyStyle.css
+│   ├── AssemblyStyleRev3.css
+│   ├── audioIcon.gif
+│   ├── backIcon.gif
+│   ├── CAIscripts.js
+│   ├── Chapter-01
+│   │   ├── ass01_01.html
+│   │   ├── ass01_02.html
+│   │   ├── ass01_03.html
+│   │   ├── ass01_04.html
+│   │   ├── ass01_05.html
+│   │   ├── ass01_06.html
+│   │   ├── ass01_07.html
+│   │   ├── ass01_08.html
+│   │   ├── ass01_09.html
+│   │   ├── ass01_10.html
+│   │   ├── ass01_11.html
+│   │   ├── ass01_12.html
+│   │   ├── ass01_13.html
+│   │   ├── ass01_14.html
+│   │   ├── ass01_15.html
+│   │   ├── ass01quiz.html
+│   │   ├── flashCardsAsm01.html
+│   │   ├── IMSAI.jpg
+│   │   ├── levels.jpg
+│   │   ├── machinecycle.gif
+│   │   ├── objectTOload.gif
+│   │   ├── PSPmainboardSmall.jpg
+│   │   ├── shamrock.gif
+│   │   └── sourceTOobject.gif
+│   ├── Chapter-02
+│   │   ├── ass02_01.html
+│   │   ├── ass02_02.html
+│   │   ├── ass02_03.html
+│   │   ├── ass02_04.html
+│   │   ├── ass02_05.html
+│   │   ├── ass02_06.html
+│   │   ├── ass02_07.html
+│   │   ├── ass02_08.html
+│   │   ├── ass02_09.html
+│   │   ├── ass02_10.html
+│   │   ├── ass02_11.html
+│   │   ├── ass02_12.html
+│   │   ├── ass02_13.html
+│   │   ├── ass02_14.html
+│   │   ├── ass02_15.html
+│   │   ├── ass02quiz.html
+│   │   ├── chineseTea.gif
+│   │   ├── Figure2-1.gif
+│   │   ├── Figure2-2.gif
+│   │   ├── Figure2-3.gif
+│   │   ├── Figure2-4.gif
+│   │   ├── flashCardsAsm02.html
+│   │   ├── OffSwitch.gif
+│   │   ├── oldnorth00.gif
+│   │   ├── oldnorth01.gif
+│   │   ├── oldnorth02.gif
+│   │   ├── oldnorth03.gif
+│   │   ├── oldnorth04.gif
+│   │   ├── OnSwitch.gif
+│   │   ├── shannonSmall.jpg
+│   │   ├── vacuum.gif
+│   │   └── wwatch.gif
+│   ├── Chapter-03
+│   │   ├── ass03_01.html
+│   │   ├── ass03_02.html
+│   │   ├── ass03_03.html
+│   │   ├── ass03_04.html
+│   │   ├── ass03_05.html
+│   │   ├── ass03_06.html
+│   │   ├── ass03_07.html
+│   │   ├── ass03_08.html
+│   │   ├── ass03_09.html
+│   │   ├── ass03_10.html
+│   │   ├── ass03_11.html
+│   │   ├── ass03quiz.html
+│   │   ├── flashCardsAsm03.html
+│   │   ├── toggleOff.gif
+│   │   └── toggleOn.gif
+│   ├── Chapter-04
+│   │   ├── ass04_01.html
+│   │   ├── ass04_02.html
+│   │   ├── ass04_03.html
+│   │   ├── ass04_04.html
+│   │   ├── ass04_05.html
+│   │   ├── ass04_06.html
+│   │   ├── ass04_07.html
+│   │   ├── ass04_08.html
+│   │   ├── ass04_09.html
+│   │   ├── ass04quiz.html
+│   │   ├── computerSystem.gif
+│   │   ├── flashCardsAsm04.html
+│   │   ├── memory01.gif
+│   │   └── virtualMem.gif
+│   ├── Chapter-05
+│   │   ├── 32asr.gif
+│   │   ├── ass05_01.html
+│   │   ├── ass05_02.html
+│   │   ├── ass05_03.html
+│   │   ├── ass05_04.html
+│   │   ├── ass05_05.html
+│   │   ├── ass05_06.html
+│   │   ├── ass05_07.html
+│   │   ├── ass05_08.html
+│   │   ├── ass05_09.html
+│   │   ├── ass05_10.html
+│   │   ├── ass05_11.html
+│   │   ├── ass05_12.html
+│   │   ├── ass05_13.html
+│   │   ├── ass05quiz.html
+│   │   ├── dosTypeExe.gif
+│   │   ├── dosTypeText.gif
+│   │   └── printerA.gif
+│   ├── Chapter-06
+│   │   ├── ass06_01.html
+│   │   ├── ass06_02.html
+│   │   ├── ass06_03.html
+│   │   ├── ass06_04.html
+│   │   ├── ass06_05.html
+│   │   ├── ass06_06.html
+│   │   ├── ass06_07.html
+│   │   ├── ass06_08.html
+│   │   ├── ass06_09.html
+│   │   ├── ass06_10.html
+│   │   ├── ass06_11.html
+│   │   ├── ass06_12.html
+│   │   ├── ass06_13.html
+│   │   ├── ass06_14.html
+│   │   ├── ass06_15.html
+│   │   ├── ass06quiz.html
+│   │   ├── dice12.gif
+│   │   ├── eggCarton.gif
+│   │   └── radixSummation01.gif
+│   ├── Chapter-07
+│   │   ├── ass07_01.html
+│   │   ├── ass07_02.html
+│   │   ├── ass07_03.html
+│   │   ├── ass07_04.html
+│   │   ├── ass07_05.html
+│   │   ├── ass07_06.html
+│   │   ├── ass07_07.html
+│   │   ├── ass07_08.html
+│   │   ├── ass07_09.html
+│   │   ├── ass07_10.html
+│   │   ├── ass07_11.html
+│   │   ├── ass07_12.html
+│   │   ├── ass07_13.html
+│   │   ├── ass07_14.html
+│   │   ├── ass07_15.html
+│   │   ├── ass07_16.html
+│   │   ├── ass07_17.html
+│   │   ├── ass07_18.html
+│   │   ├── ass07_19.html
+│   │   ├── ass07_20.html
+│   │   ├── ass07_21.html
+│   │   ├── ass07quiz.html
+│   │   ├── assFlash07.html
+│   │   ├── conversionBase5.gif
+│   │   └── NameRelations.gif
+│   ├── Chapter-08
+│   │   ├── addition01.gif
+│   │   ├── addition02.gif
+│   │   ├── addition03.gif
+│   │   ├── ass08_01.html
+│   │   ├── ass08_02.html
+│   │   ├── ass08_03.html
+│   │   ├── ass08_04.html
+│   │   ├── ass08_05.html
+│   │   ├── ass08_06.html
+│   │   ├── ass08_07.html
+│   │   ├── ass08_08.html
+│   │   ├── ass08_09.html
+│   │   ├── ass08_10.html
+│   │   ├── ass08_11.html
+│   │   ├── ass08_12.html
+│   │   ├── ass08_13.html
+│   │   ├── ass08_14.html
+│   │   ├── ass08_15.html
+│   │   ├── ass08_16.html
+│   │   ├── ass08_17.html
+│   │   ├── ass08_18.html
+│   │   ├── ass08_19.html
+│   │   ├── ass08_20.html
+│   │   ├── ass08_21.html
+│   │   ├── ass08_22.html
+│   │   ├── ass08_23.html
+│   │   ├── ass08_24.html
+│   │   ├── ass08_25.html
+│   │   ├── ass08_26.html
+│   │   ├── ass08_27.html
+│   │   ├── ass08_28.html
+│   │   ├── ass08_29.html
+│   │   ├── ass08_30.html
+│   │   ├── ass08quiz.html
+│   │   ├── binaryAdditionExample.gif
+│   │   ├── binaryAdditionTable.gif
+│   │   └── mysteryNumber.gif
+│   ├── Chapter-09
+│   │   ├── ass09_01.html
+│   │   ├── ass09_02.html
+│   │   ├── ass09_03.html
+│   │   ├── ass09_04.html
+│   │   ├── ass09_05.html
+│   │   ├── ass09_06.html
+│   │   ├── ass09_07.html
+│   │   ├── ass09_08.html
+│   │   ├── ass09_09.html
+│   │   ├── ass09_10.html
+│   │   ├── ass09_11.html
+│   │   ├── ass09_12.html
+│   │   ├── ass09_13.html
+│   │   ├── ass09_14.html
+│   │   ├── ass09_15.html
+│   │   ├── ass09_16.html
+│   │   ├── ass09programs.html
+│   │   ├── ass09quiz.html
+│   │   ├── fileMenu.gif
+│   │   ├── loadedSource.gif
+│   │   ├── openFile.gif
+│   │   ├── settings.gif
+│   │   ├── setValue.gif
+│   │   ├── singleStep.gif
+│   │   ├── startAddress.jpg
+│   │   ├── startSpim2.jpg
+│   │   ├── startSpim.jpg
+│   │   └── thirdStep.gif
+│   ├── Chapter-10
+│   │   ├── addProg.gif
+│   │   ├── aluRegisters.gif
+│   │   ├── ass10_01.html
+│   │   ├── ass10_02.html
+│   │   ├── ass10_03.html
+│   │   ├── ass10_04.html
+│   │   ├── ass10_05.html
+│   │   ├── ass10_06.html
+│   │   ├── ass10_07.html
+│   │   ├── ass10_08.html
+│   │   ├── ass10_09.html
+│   │   ├── ass10_10.html
+│   │   ├── ass10_11.html
+│   │   ├── ass10_12.html
+│   │   ├── ass10programs.html
+│   │   ├── ass10quiz.html
+│   │   ├── machinecycle.gif
+│   │   ├── memory01.gif
+│   │   ├── memoryLayout.gif
+│   │   └── sparkCoil.gif
+│   ├── Chapter-11
+│   │   ├── andWork.gif
+│   │   ├── ass11_01.html
+│   │   ├── ass11_02.html
+│   │   ├── ass11_03.html
+│   │   ├── ass11_04.html
+│   │   ├── ass11_05.html
+│   │   ├── ass11_06.html
+│   │   ├── ass11_07.html
+│   │   ├── ass11_08.html
+│   │   ├── ass11_09.html
+│   │   ├── ass11_10.html
+│   │   ├── ass11_11.html
+│   │   ├── ass11_12.html
+│   │   ├── ass11_13.html
+│   │   ├── ass11_14.html
+│   │   ├── ass11programs.html
+│   │   ├── ass11quiz.html
+│   │   └── orWork.gif
+│   ├── Chapter-12
+│   │   ├── ass12_01.html
+│   │   ├── ass12_02.html
+│   │   ├── ass12_03.html
+│   │   ├── ass12_04.html
+│   │   ├── ass12_05.html
+│   │   ├── ass12_06.html
+│   │   ├── ass12_07.html
+│   │   ├── ass12_08.html
+│   │   ├── ass12_09.html
+│   │   ├── ass12_10.html
+│   │   ├── ass12_11.html
+│   │   ├── ass12_12.html
+│   │   ├── ass12_13.html
+│   │   ├── ass12_14.html
+│   │   ├── ass12_15.html
+│   │   ├── ass12_16.html
+│   │   ├── ass12_17.html
+│   │   ├── ass12_18.html
+│   │   ├── ass12_19.html
+│   │   ├── ass12_20.html
+│   │   ├── ass12_21.html
+│   │   ├── ass12_22.html
+│   │   ├── ass12_23.html
+│   │   ├── ass12programs.html
+│   │   ├── ass12quiz.html
+│   │   ├── complAss.gif
+│   │   ├── firstShift.gif
+│   │   ├── lshiftLeft.gif
+│   │   ├── lshiftRight.gif
+│   │   └── shiftTwo.gif
+│   ├── Chapter-13
+│   │   ├── addSome.gif
+│   │   ├── ass13_01.html
+│   │   ├── ass13_02.html
+│   │   ├── ass13_03.html
+│   │   ├── ass13_04.html
+│   │   ├── ass13_05.html
+│   │   ├── ass13_06.html
+│   │   ├── ass13_07.html
+│   │   ├── ass13_08.html
+│   │   ├── ass13_09.html
+│   │   ├── ass13_10.html
+│   │   ├── ass13_11.html
+│   │   ├── ass13_12.html
+│   │   ├── ass13_13.html
+│   │   ├── ass13_14.html
+│   │   ├── ass13_15.html
+│   │   ├── ass13programs.html
+│   │   ├── ass13quiz.html
+│   │   ├── handMadeNeg.gif
+│   │   └── signExtention.gif
+│   ├── Chapter-14
+│   │   ├── arithRight.gif
+│   │   ├── ass14_01.html
+│   │   ├── ass14_02.html
+│   │   ├── ass14_03.html
+│   │   ├── ass14_04.html
+│   │   ├── ass14_05.html
+│   │   ├── ass14_06.html
+│   │   ├── ass14_07.html
+│   │   ├── ass14_08.html
+│   │   ├── ass14_09.html
+│   │   ├── ass14_10.html
+│   │   ├── ass14_11.html
+│   │   ├── ass14_12.html
+│   │   ├── ass14_13.html
+│   │   ├── ass14_14.html
+│   │   ├── ass14_15.html
+│   │   ├── ass14programs.html
+│   │   ├── ass14quiz.html
+│   │   ├── divEgRun.gif
+│   │   ├── HiLoDiv.gif
+│   │   ├── HiLoMult.gif
+│   │   └── newMultRun.gif
+│   ├── Chapter-15
+│   │   ├── ass15_01.html
+│   │   ├── ass15_02.html
+│   │   ├── ass15_03.html
+│   │   ├── ass15_04.html
+│   │   ├── ass15_05.html
+│   │   ├── ass15_06.html
+│   │   ├── ass15_07.html
+│   │   ├── ass15_08.html
+│   │   ├── ass15_09.html
+│   │   ├── ass15_10.html
+│   │   ├── ass15_11.html
+│   │   ├── ass15_12.html
+│   │   ├── ass15_13.html
+│   │   ├── ass15_14.html
+│   │   ├── ass15_15.html
+│   │   ├── ass15_16.html
+│   │   ├── ass15_17.html
+│   │   ├── ass15_18.html
+│   │   ├── ass15_19.html
+│   │   ├── ass15_20.html
+│   │   ├── ass15_21.html
+│   │   ├── ass15programs.html
+│   │   ├── ass15quiz.html
+│   │   ├── bigLittleEndian.gif
+│   │   ├── lwProblem.gif
+│   │   ├── lwProblemTwo.gif
+│   │   ├── polyDataSect.gif
+│   │   └── polyRun.gif
+│   ├── Chapter-16
+│   │   ├── ass16_01.html
+│   │   ├── ass16_02.html
+│   │   ├── ass16_03.html
+│   │   ├── ass16_04.html
+│   │   ├── ass16_05.html
+│   │   ├── ass16_06.html
+│   │   ├── ass16_07.html
+│   │   ├── ass16_08.html
+│   │   ├── ass16_09.html
+│   │   ├── ass16_10.html
+│   │   ├── ass16_11.html
+│   │   ├── ass16programs.html
+│   │   ├── ass16quiz.html
+│   │   ├── endianRun.gif
+│   │   └── finalRun.gif
+│   ├── Chapter-17
+│   │   ├── absValChart.gif
+│   │   ├── ass17_01.html
+│   │   ├── ass17_02.html
+│   │   ├── ass17_03.html
+│   │   ├── ass17_04.html
+│   │   ├── ass17_05.html
+│   │   ├── ass17_06.html
+│   │   ├── ass17_07.html
+│   │   ├── ass17_08.html
+│   │   ├── ass17_09.html
+│   │   ├── ass17_10.html
+│   │   ├── ass17_11.html
+│   │   ├── ass17_12.html
+│   │   ├── ass17_13.html
+│   │   ├── ass17_14.html
+│   │   ├── ass17_15.html
+│   │   ├── ass17_16.html
+│   │   ├── ass17_17.html
+│   │   ├── ass17_18.html
+│   │   ├── ass17programs.html
+│   │   ├── ass17quiz.html
+│   │   ├── beqChart.gif
+│   │   ├── branchDelayRun.gif
+│   │   ├── jumpAddressForm.gif
+│   │   ├── MachineCycle.gif
+│   │   └── twoWayChart.gif
+│   ├── Chapter-18
+│   │   ├── ass18_01.html
+│   │   ├── ass18_02.html
+│   │   ├── ass18_03.html
+│   │   ├── ass18_04.html
+│   │   ├── ass18_05.html
+│   │   ├── ass18_06.html
+│   │   ├── ass18_07.html
+│   │   ├── ass18_08.html
+│   │   ├── ass18_09.html
+│   │   ├── ass18_10.html
+│   │   ├── ass18_11.html
+│   │   ├── ass18_12.html
+│   │   ├── ass18_13.html
+│   │   ├── ass18_14.html
+│   │   ├── ass18programs.html
+│   │   ├── ass18quiz.html
+│   │   ├── countingLoop.gif
+│   │   ├── countiToTen.gif
+│   │   ├── delaySlotBug.gif
+│   │   ├── tempRange.gif
+│   │   └── thermometer.gif
+│   ├── Chapter-19
+│   │   ├── absIterate.gif
+│   │   ├── addUpSecond.gif
+│   │   ├── addUpStart.gif
+│   │   ├── addUpThird.gif
+│   │   ├── ass19_01.html
+│   │   ├── ass19_02.html
+│   │   ├── ass19_03.html
+│   │   ├── ass19_04.html
+│   │   ├── ass19_05.html
+│   │   ├── ass19_06.html
+│   │   ├── ass19_07.html
+│   │   ├── ass19_08.html
+│   │   ├── ass19_09.html
+│   │   ├── ass19_10.html
+│   │   ├── ass19_11.html
+│   │   ├── ass19_12.html
+│   │   ├── ass19_13.html
+│   │   ├── ass19_14.html
+│   │   ├── ass19_15.html
+│   │   ├── ass19_16.html
+│   │   ├── ass19_17.html
+│   │   ├── ass19_18.html
+│   │   ├── ass19_19.html
+│   │   ├── ass19_20.html
+│   │   ├── ass19_21.html
+│   │   ├── ass19_22.html
+│   │   ├── ass19_23.html
+│   │   ├── ass19_24.html
+│   │   ├── ass19_25.html
+│   │   ├── ass19programs.html
+│   │   ├── ass19quiz.html
+│   │   ├── blockSequence.gif
+│   │   ├── codeBlock.gif
+│   │   ├── fourStructures.gif
+│   │   ├── ifExample.gif
+│   │   ├── structureRule1.gif
+│   │   ├── structureRule2.gif
+│   │   ├── structureRule3.gif
+│   │   ├── structureRule4.gif
+│   │   └── universalFlowChart.gif
+│   ├── Chapter-20
+│   │   ├── AddIntArray-2.gif
+│   │   ├── addIntArray.gif
+│   │   ├── ass20_01.html
+│   │   ├── ass20_02.html
+│   │   ├── ass20_03.html
+│   │   ├── ass20_04.html
+│   │   ├── ass20_05.html
+│   │   ├── ass20_06.html
+│   │   ├── ass20_07.html
+│   │   ├── ass20_08.html
+│   │   ├── ass20_09.html
+│   │   ├── ass20_10.html
+│   │   ├── ass20_11.html
+│   │   ├── ass20_12.html
+│   │   ├── ass20_13.html
+│   │   ├── ass20_14.html
+│   │   ├── ass20_15.html
+│   │   ├── ass20_16.html
+│   │   ├── ass20_17.html
+│   │   ├── ass20programs.html
+│   │   ├── ass20quiz.html
+│   │   ├── continueMenu.gif
+│   │   ├── integerArray.gif
+│   │   ├── nullTermString.gif
+│   │   ├── smallAddIntArray.gif
+│   │   ├── spimString.gif
+│   │   └── strlen.gif
+│   ├── Chapter-21
+│   │   ├── addressUnknown.gif
+│   │   ├── ass21_01.html
+│   │   ├── ass21_02.html
+│   │   ├── ass21_03.html
+│   │   ├── ass21_04.html
+│   │   ├── ass21_05.html
+│   │   ├── ass21_06.html
+│   │   ├── ass21_07.html
+│   │   ├── ass21_08.html
+│   │   ├── ass21_09.html
+│   │   ├── ass21_10.html
+│   │   ├── ass21_11.html
+│   │   ├── ass21_12.html
+│   │   ├── ass21_13.html
+│   │   ├── ass21_14.html
+│   │   ├── ass21_15.html
+│   │   ├── ass21_16.html
+│   │   ├── ass21_17.html
+│   │   ├── ass21_18.html
+│   │   ├── ass21_19.html
+│   │   ├── ass21_20.html
+│   │   ├── ass21_21.html
+│   │   ├── ass21_22.html
+│   │   ├── ass21_23.html
+│   │   ├── ass21programs.html
+│   │   ├── ass21quiz.html
+│   │   ├── extendAss.gif
+│   │   ├── memPicture.gif
+│   │   ├── pseudocomputer.gif
+│   │   └── SPIMla.gif
+│   ├── Chapter-22
+│   │   ├── ass22_01.html
+│   │   ├── ass22_02.html
+│   │   ├── ass22_03.html
+│   │   ├── ass22_04.html
+│   │   ├── ass22_05.html
+│   │   ├── ass22_06.html
+│   │   ├── ass22_07.html
+│   │   ├── ass22_08.html
+│   │   ├── ass22_09.html
+│   │   ├── ass22_10.html
+│   │   ├── ass22_11.html
+│   │   ├── ass22_12.html
+│   │   ├── ass22_13.html
+│   │   ├── ass22_14.html
+│   │   ├── ass22programs.html
+│   │   ├── ass22quiz.html
+│   │   ├── exceptionOptions.gif
+│   │   ├── fineLetterB.gif
+│   │   ├── fineLetter.gif
+│   │   └── helloOut.gif
+│   ├── Chapter-23
+│   │   ├── ass23_01.html
+│   │   ├── ass23_02.html
+│   │   ├── ass23_03.html
+│   │   ├── ass23_04.html
+│   │   ├── ass23_05.html
+│   │   ├── ass23_06.html
+│   │   ├── ass23_07.html
+│   │   ├── ass23_08.html
+│   │   ├── ass23_09.html
+│   │   ├── ass23_10.html
+│   │   ├── ass23_11.html
+│   │   ├── ass23_12.html
+│   │   ├── ass23_13.html
+│   │   ├── ass23_14.html
+│   │   ├── ass23_15.html
+│   │   ├── ass23_16.html
+│   │   ├── ass23programs.html
+│   │   ├── ass23quiz.html
+│   │   ├── highlight.gif
+│   │   ├── la.gif
+│   │   ├── li.gif
+│   │   ├── move.gif
+│   │   └── shiftRot.gif
+│   ├── Chapter-24
+│   │   ├── ass24_01.html
+│   │   ├── ass24_02.html
+│   │   ├── ass24_03.html
+│   │   ├── ass24_04.html
+│   │   ├── ass24_05.html
+│   │   ├── ass24_06.html
+│   │   ├── ass24_07.html
+│   │   ├── ass24_08.html
+│   │   ├── ass24_09.html
+│   │   ├── ass24_10.html
+│   │   ├── ass24_11.html
+│   │   ├── ass24_12.html
+│   │   ├── ass24_13.html
+│   │   ├── ass24_14.html
+│   │   ├── ass24_15.html
+│   │   ├── ass24_16.html
+│   │   ├── ass24programs.html
+│   │   └── ass24quiz.html
+│   ├── Chapter-25
+│   │   ├── ass25_01.html
+│   │   ├── ass25_02.html
+│   │   ├── ass25_03.html
+│   │   ├── ass25_04.html
+│   │   ├── ass25_05.html
+│   │   ├── ass25_06.html
+│   │   ├── ass25_07.html
+│   │   ├── ass25_08.html
+│   │   ├── ass25_09.html
+│   │   ├── ass25_10.html
+│   │   ├── ass25_11.html
+│   │   ├── ass25_12.html
+│   │   ├── ass25_13.html
+│   │   ├── ass25_14.html
+│   │   ├── ass25_15.html
+│   │   ├── ass25_16.html
+│   │   ├── ass25programs.html
+│   │   ├── ass25quiz.html
+│   │   ├── stackHello.gif
+│   │   ├── stackInts00.gif
+│   │   ├── stackInts01.gif
+│   │   ├── stackInts02.gif
+│   │   └── stackPlates00.gif
+│   ├── Chapter-26
+│   │   ├── ass26_01.html
+│   │   ├── ass26_02.html
+│   │   ├── ass26_03.html
+│   │   ├── ass26_04.html
+│   │   ├── ass26_05.html
+│   │   ├── ass26_06.html
+│   │   ├── ass26_07.html
+│   │   ├── ass26_08.html
+│   │   ├── ass26_09.html
+│   │   ├── ass26_10.html
+│   │   ├── ass26_11.html
+│   │   ├── ass26_12.html
+│   │   ├── ass26_13.html
+│   │   ├── ass26_14.html
+│   │   ├── ass26_15.html
+│   │   ├── ass26_16.html
+│   │   ├── ass26programs.html
+│   │   ├── ass26quiz.html
+│   │   ├── callSummary.jpg
+│   │   ├── jalEg.gif
+│   │   ├── monitor.jpg
+│   │   ├── subManyCorrect.gif
+│   │   ├── subMany.gif
+│   │   └── subOnce.gif
+│   ├── Chapter-27
+│   │   ├── ass27_01.html
+│   │   ├── ass27_02.html
+│   │   ├── ass27_03.html
+│   │   ├── ass27_04.html
+│   │   ├── ass27_05.html
+│   │   ├── ass27_06.html
+│   │   ├── ass27_07.html
+│   │   ├── ass27_08.html
+│   │   ├── ass27_09.html
+│   │   ├── ass27_10.html
+│   │   ├── ass27_11.html
+│   │   ├── ass27_12.html
+│   │   ├── ass27_13.html
+│   │   ├── ass27_14.html
+│   │   ├── ass27_15.html
+│   │   ├── ass27_16.html
+│   │   ├── ass27_17.html
+│   │   ├── ass27_18.html
+│   │   ├── ass27_19.html
+│   │   ├── ass27_20.html
+│   │   ├── ass27_21.html
+│   │   ├── ass27_22.html
+│   │   ├── ass27_23.html
+│   │   ├── ass27_24.html
+│   │   ├── ass27_25.html
+│   │   ├── ass27_26.html
+│   │   ├── ass27_27.html
+│   │   ├── ass27_28.html
+│   │   ├── ass27_29.html
+│   │   ├── ass27_30.html
+│   │   ├── ass27_31.html
+│   │   ├── ass27programs.html
+│   │   ├── ass27quiz.html
+│   │   ├── convert.gif
+│   │   ├── design.gif
+│   │   ├── doLines.gif
+│   │   ├── getLine.gif
+│   │   ├── mainCallingA.gif
+│   │   ├── main.gif
+│   │   ├── popetBeads.gif
+│   │   ├── prologEpilog.gif
+│   │   ├── pushPopCall.gif
+│   │   └── wynken.jpg
+│   ├── Chapter-28
+│   │   ├── ass28_01.html
+│   │   ├── ass28_02.html
+│   │   ├── ass28_03.html
+│   │   ├── ass28_04.html
+│   │   ├── ass28_05.html
+│   │   ├── ass28_06.html
+│   │   ├── ass28_07.html
+│   │   ├── ass28_08.html
+│   │   ├── ass28_09.html
+│   │   ├── ass28_10.html
+│   │   ├── ass28_11.html
+│   │   ├── ass28_12.html
+│   │   ├── ass28_13.html
+│   │   ├── ass28_14.html
+│   │   ├── ass28_15.html
+│   │   ├── ass28_16.html
+│   │   ├── ass28_17.html
+│   │   ├── ass28_18.html
+│   │   ├── ass28_19.html
+│   │   ├── ass28_20.html
+│   │   ├── ass28_21.html
+│   │   ├── ass28_22.html
+│   │   ├── ass28_23.html
+│   │   ├── ass28_24.html
+│   │   ├── ass28_25.html
+│   │   ├── ass28_26.html
+│   │   ├── ass28_27.html
+│   │   ├── ass28_28.html
+│   │   ├── ass28_29.html
+│   │   ├── ass28programs.html
+│   │   ├── ass28quiz.html
+│   │   ├── factChain.gif
+│   │   ├── factPict.gif
+│   │   ├── prologEpilog.gif
+│   │   └── stackFrame00.gif
+│   ├── Chapter-29
+│   │   ├── ass29_01.html
+│   │   ├── ass29_02.html
+│   │   ├── ass29_03.html
+│   │   ├── ass29_04.html
+│   │   ├── ass29_05.html
+│   │   ├── ass29_06.html
+│   │   ├── ass29_07.html
+│   │   ├── ass29_08.html
+│   │   ├── ass29_09.html
+│   │   ├── ass29_10.html
+│   │   ├── ass29_11.html
+│   │   ├── ass29_12.html
+│   │   ├── ass29_13.html
+│   │   ├── ass29_14.html
+│   │   ├── ass29_15.html
+│   │   ├── ass29_16.html
+│   │   ├── ass29_17.html
+│   │   ├── ass29_18.html
+│   │   ├── ass29_19.html
+│   │   ├── ass29_20.html
+│   │   ├── ass29quizB.html
+│   │   ├── ass29quiz.html
+│   │   └── numberLine.jpg
+│   ├── Chapter-30
+│   │   ├── ass30_01.html
+│   │   ├── ass30_02.html
+│   │   ├── ass30_03.html
+│   │   ├── ass30_04.html
+│   │   ├── ass30_05.html
+│   │   ├── ass30_06.html
+│   │   ├── ass30_07.html
+│   │   ├── ass30_08.html
+│   │   ├── ass30_09.html
+│   │   ├── ass30_10.html
+│   │   ├── ass30_11.html
+│   │   ├── ass30_12.html
+│   │   ├── ass30_13.html
+│   │   ├── ass30_14.html
+│   │   ├── ass30_15.html
+│   │   ├── ass30_16.html
+│   │   ├── ass30_17.html
+│   │   ├── ass30_18.html
+│   │   ├── ass30_19.html
+│   │   ├── ass30_20.html
+│   │   ├── ass30_21.html
+│   │   ├── ass30quiz.html
+│   │   ├── ieee10.jpg
+│   │   ├── IEEE754.jpg
+│   │   ├── scientificNotation.gif
+│   │   └── spim1.gif
+│   ├── Chapter-31
+│   │   ├── ass31_01.html
+│   │   ├── ass31_02.html
+│   │   ├── ass31_03.html
+│   │   ├── ass31_04.html
+│   │   ├── ass31_05.html
+│   │   ├── ass31_06.html
+│   │   ├── ass31_07.html
+│   │   ├── ass31_08.html
+│   │   ├── ass31_09.html
+│   │   ├── ass31_10.html
+│   │   ├── ass31_11.html
+│   │   ├── ass31_12.html
+│   │   ├── ass31_13.html
+│   │   ├── ass31_14.html
+│   │   ├── ass31_15.html
+│   │   ├── ass31_16.html
+│   │   ├── ass31_17.html
+│   │   ├── ass31_18.html
+│   │   ├── ass31_19.html
+│   │   ├── ass31_20.html
+│   │   ├── ass31_21.html
+│   │   ├── ass31_22.html
+│   │   ├── ass31_23.html
+│   │   ├── ass31_24.html
+│   │   ├── ass31_25.html
+│   │   ├── ass31programs.html
+│   │   ├── ass31quiz.html
+│   │   ├── moveRegsFloat.jpg
+│   │   ├── moveRegsGeneral.jpg
+│   │   ├── oneOneData.gif
+│   │   ├── polyOut.jpg
+│   │   └── printOutput.jpg
+│   ├── Chapter-32
+│   │   ├── ass32_01.html
+│   │   ├── ass32_02.html
+│   │   ├── ass32_03.html
+│   │   ├── ass32_04.html
+│   │   ├── ass32_05.html
+│   │   ├── ass32_06.html
+│   │   ├── ass32_07.html
+│   │   ├── ass32_08.html
+│   │   ├── ass32_09.html
+│   │   ├── ass32_10.html
+│   │   ├── ass32_11.html
+│   │   ├── ass32_12.html
+│   │   ├── ass32_13.html
+│   │   ├── ass32_14.html
+│   │   ├── ass32_15.html
+│   │   ├── ass32programs.html
+│   │   ├── ass32quiz.html
+│   │   └── fpa.gif
+│   ├── Chapter-33
+│   │   ├── ass33_01.html
+│   │   ├── ass33_02.html
+│   │   ├── ass33_03.html
+│   │   ├── ass33_04.html
+│   │   ├── ass33_05.html
+│   │   ├── ass33_06.html
+│   │   ├── ass33_07.html
+│   │   ├── ass33_08.html
+│   │   ├── ass33_09.html
+│   │   ├── ass33_10.html
+│   │   ├── ass33_11.html
+│   │   ├── ass33_12.html
+│   │   ├── ass33_13.html
+│   │   ├── ass33_14.html
+│   │   ├── ass33_15.html
+│   │   ├── ass33_16.html
+│   │   ├── ass33_17.html
+│   │   ├── ass33_18.html
+│   │   ├── ass33_19.html
+│   │   ├── ass33_20.html
+│   │   ├── ass33_21.html
+│   │   ├── ass33_22.html
+│   │   ├── ass33programs.html
+│   │   ├── ass33quiz.html
+│   │   ├── fragmentation.gif
+│   │   └── mallocOnePic.gif
+│   ├── Chapter-34
+│   │   ├── advancePointer.gif
+│   │   ├── ass34_01.html
+│   │   ├── ass34_02.html
+│   │   ├── ass34_03.html
+│   │   ├── ass34_04.html
+│   │   ├── ass34_05.html
+│   │   ├── ass34_06.html
+│   │   ├── ass34_07.html
+│   │   ├── ass34_08.html
+│   │   ├── ass34_09.html
+│   │   ├── ass34_10.html
+│   │   ├── ass34_11.html
+│   │   ├── ass34_12.html
+│   │   ├── ass34_13.html
+│   │   ├── ass34_14.html
+│   │   ├── ass34_15.html
+│   │   ├── ass34_16.html
+│   │   ├── ass34_17.html
+│   │   ├── ass34programs.html
+│   │   ├── ass34quiz.html
+│   │   ├── coreDump.gif
+│   │   ├── emptyList.gif
+│   │   ├── intLinkedList.gif
+│   │   ├── mustardList.gif
+│   │   ├── primeList.gif
+│   │   └── startLinkedList.gif
+│   ├── Chapter-35
+│   │   ├── ass35_01.html
+│   │   ├── ass35_02.html
+│   │   ├── ass35_03.html
+│   │   ├── ass35_04.html
+│   │   ├── ass35_05.html
+│   │   ├── ass35_06.html
+│   │   ├── ass35_07.html
+│   │   ├── ass35_08.html
+│   │   ├── ass35_09.html
+│   │   ├── ass35_10.html
+│   │   ├── ass35_11.html
+│   │   ├── ass35_12.html
+│   │   ├── ass35_13.html
+│   │   ├── ass35_14.html
+│   │   ├── ass35_15.html
+│   │   ├── ass35_16.html
+│   │   ├── ass35_17.html
+│   │   ├── ass35_18.html
+│   │   ├── ass35_19.html
+│   │   ├── ass35programs.html
+│   │   ├── ass35quiz.html
+│   │   ├── firstOfEight.gif
+│   │   ├── generalCase.gif
+│   │   ├── headerList.gif
+│   │   ├── secondOfEight.gif
+│   │   ├── thirdOfEight.gif
+│   │   ├── threeNodeList.gif
+│   │   ├── threeNodeListMemDump.gif
+│   │   ├── threeNodeListSecond.gif
+│   │   ├── threeNodeListStart.gif
+│   │   ├── threeNodeListThird.gif
+│   │   └── twoNodeList.gif
+│   ├── Chapter-36
+│   │   ├── ass36_01.html
+│   │   ├── ass36_02.html
+│   │   ├── ass36_03.html
+│   │   ├── ass36_04.html
+│   │   ├── ass36_05.html
+│   │   ├── ass36_06.html
+│   │   ├── ass36_07.html
+│   │   ├── ass36_08.html
+│   │   ├── ass36_09.html
+│   │   ├── ass36_10.html
+│   │   ├── ass36_11.html
+│   │   ├── ass36_12.html
+│   │   ├── ass36_13.html
+│   │   ├── ass36_14.html
+│   │   ├── ass36_15.html
+│   │   ├── ass36_16.html
+│   │   ├── ass36_17.html
+│   │   ├── ass36_18.html
+│   │   ├── ass36_19.html
+│   │   ├── ass36_20.html
+│   │   ├── ass36_21.html
+│   │   ├── ass36_22.html
+│   │   ├── ass36_23.html
+│   │   ├── ass36_24.html
+│   │   ├── ass36_25.html
+│   │   ├── ass36_26.html
+│   │   ├── ass36_27.html
+│   │   ├── ass36_28.html
+│   │   ├── ass36programs.html
+│   │   ├── ass36quiz.html
+│   │   ├── dump01.gif
+│   │   ├── helloWorld.gif
+│   │   ├── objectpicture.gif
+│   │   ├── realObjectPicture.gif
+│   │   └── twoObjects.gif
+│   ├── contents.gif
+│   ├── highLightIcon.gif
+│   ├── homeIcon.gif
+│   ├── index.html
+│   ├── nextIcon.gif
+│   ├── subjectIndex.html
+│   ├── title.gif
+│   ├── zAppendixA
+│   │   ├── appA_01.html
+│   │   ├── appA_02.html
+│   │   ├── appA_03.html
+│   │   ├── appA_04.html
+│   │   ├── appA_05.html
+│   │   ├── appA_06.html
+│   │   ├── exitSpim.gif
+│   │   ├── lowerLeftButton.jpg
+│   │   ├── qtspimOpen.gif
+│   │   └── startMenu.jpg
+│   ├── zAppendixB
+│   │   └── registerUseChart.html
+│   ├── zAppendixC
+│   │   └── basicInstructions.html
+│   ├── zAppendixE
+│   │   ├── binaryAdd.html
+│   │   └── leftArrow.gif
+│   ├── zAppendixF
+│   │   └── ascii.html
+│   ├── zAppendixG
+│   │   └── SPIMtraps.html
+│   ├── zAppendixH
+│   │   ├── appH_01.html
+│   │   ├── appH_02.html
+│   │   ├── appH_03.html
+│   │   ├── appH_04.html
+│   │   ├── appH_05.html
+│   │   ├── appH_06.html
+│   │   ├── appH_07.html
+│   │   ├── appH_08.html
+│   │   ├── appH_09.html
+│   │   ├── appH_10.html
+│   │   ├── appH_11.html
+│   │   ├── appH_12.html
+│   │   ├── appH_13.html
+│   │   ├── appH_14.html
+│   │   ├── appH_15.html
+│   │   ├── appH_16.html
+│   │   ├── appH_17.html
+│   │   ├── appH_18.html
+│   │   ├── appH_19.html
+│   │   ├── appH_20.html
+│   │   ├── conversion23.gif
+│   │   ├── conversion49.gif
+│   │   ├── conversion74.gif
+│   │   ├── conversion85.gif
+│   │   ├── divANDmod.gif
+│   │   └── oddOReven.gif
+│   ├── zAppendixI
+│   │   └── converter.html
+│   └── zeroOnes2.gif
+├── package.json
+├── README.md
+├── scripts
+│   └── convert-tutorial.ts
+├── sidebars.ts
+├── src
+│   ├── components
+│   │   └── HomepageFeatures
+│   │       ├── index.tsx
+│   │       └── styles.module.css
+│   ├── css
+│   │   └── custom.css
+│   └── pages
+│       ├── index.module.css
+│       ├── index.tsx
+│       └── markdown-page.md
+├── static
+│   ├── Chapter-01
+│   │   ├── IMSAI.jpg
+│   │   ├── levels.jpg
+│   │   ├── machinecycle.gif
+│   │   ├── objectTOload.gif
+│   │   ├── PSPmainboardSmall.jpg
+│   │   └── sourceTOobject.gif
+│   ├── Chapter-02
+│   │   ├── chineseTea.gif
+│   │   ├── Figure2-1.gif
+│   │   ├── Figure2-2.gif
+│   │   ├── Figure2-3.gif
+│   │   ├── Figure2-4.gif
+│   │   ├── OffSwitch.gif
+│   │   ├── oldnorth00.gif
+│   │   ├── shannonSmall.jpg
+│   │   ├── vacuum.gif
+│   │   └── wwatch.gif
+│   ├── Chapter-03
+│   │   └── toggleOff.gif
+│   ├── Chapter-04
+│   │   ├── computerSystem.gif
+│   │   ├── memory01.gif
+│   │   └── virtualMem.gif
+│   ├── Chapter-05
+│   │   ├── 32asr.gif
+│   │   ├── dosTypeExe.gif
+│   │   ├── dosTypeText.gif
+│   │   └── printerA.gif
+│   ├── Chapter-06
+│   │   ├── dice12.gif
+│   │   ├── eggCarton.gif
+│   │   └── radixSummation01.gif
+│   ├── Chapter-07
+│   │   ├── conversionBase5.gif
+│   │   └── NameRelations.gif
+│   ├── Chapter-08
+│   │   ├── addition01.gif
+│   │   ├── addition02.gif
+│   │   ├── addition03.gif
+│   │   ├── binaryAdditionExample.gif
+│   │   ├── binaryAdditionTable.gif
+│   │   └── mysteryNumber.gif
+│   ├── Chapter-09
+│   │   ├── fileMenu.gif
+│   │   ├── loadedSource.gif
+│   │   ├── openFile.gif
+│   │   ├── settings.gif
+│   │   ├── setValue.gif
+│   │   ├── singleStep.gif
+│   │   ├── startAddress.jpg
+│   │   ├── startSpim2.jpg
+│   │   ├── startSpim.jpg
+│   │   └── thirdStep.gif
+│   ├── Chapter-10
+│   │   ├── addProg.gif
+│   │   ├── aluRegisters.gif
+│   │   ├── machinecycle.gif
+│   │   ├── memory01.gif
+│   │   ├── memoryLayout.gif
+│   │   └── sparkCoil.gif
+│   ├── Chapter-11
+│   │   ├── andWork.gif
+│   │   └── orWork.gif
+│   ├── Chapter-12
+│   │   ├── complAss.gif
+│   │   ├── firstShift.gif
+│   │   ├── lshiftLeft.gif
+│   │   ├── lshiftRight.gif
+│   │   └── shiftTwo.gif
+│   ├── Chapter-13
+│   │   ├── addSome.gif
+│   │   ├── handMadeNeg.gif
+│   │   └── signExtention.gif
+│   ├── Chapter-14
+│   │   ├── arithRight.gif
+│   │   ├── divEgRun.gif
+│   │   ├── HiLoDiv.gif
+│   │   ├── HiLoMult.gif
+│   │   └── newMultRun.gif
+│   ├── Chapter-15
+│   │   ├── bigLittleEndian.gif
+│   │   ├── lwProblem.gif
+│   │   ├── lwProblemTwo.gif
+│   │   ├── polyDataSect.gif
+│   │   └── polyRun.gif
+│   ├── Chapter-16
+│   │   ├── endianRun.gif
+│   │   └── finalRun.gif
+│   ├── Chapter-17
+│   │   ├── absValChart.gif
+│   │   ├── beqChart.gif
+│   │   ├── branchDelayRun.gif
+│   │   ├── jumpAddressForm.gif
+│   │   ├── MachineCycle.gif
+│   │   └── twoWayChart.gif
+│   ├── Chapter-18
+│   │   ├── countingLoop.gif
+│   │   ├── countiToTen.gif
+│   │   ├── delaySlotBug.gif
+│   │   ├── tempRange.gif
+│   │   └── thermometer.gif
+│   ├── Chapter-19
+│   │   ├── absIterate.gif
+│   │   ├── addUpSecond.gif
+│   │   ├── addUpStart.gif
+│   │   ├── addUpThird.gif
+│   │   ├── blockSequence.gif
+│   │   ├── codeBlock.gif
+│   │   ├── fourStructures.gif
+│   │   ├── ifExample.gif
+│   │   ├── structureRule1.gif
+│   │   ├── structureRule2.gif
+│   │   ├── structureRule3.gif
+│   │   ├── structureRule4.gif
+│   │   └── universalFlowChart.gif
+│   ├── Chapter-20
+│   │   ├── AddIntArray-2.gif
+│   │   ├── addIntArray.gif
+│   │   ├── continueMenu.gif
+│   │   ├── integerArray.gif
+│   │   ├── nullTermString.gif
+│   │   ├── smallAddIntArray.gif
+│   │   ├── spimString.gif
+│   │   └── strlen.gif
+│   ├── Chapter-21
+│   │   ├── addressUnknown.gif
+│   │   ├── extendAss.gif
+│   │   ├── memPicture.gif
+│   │   ├── pseudocomputer.gif
+│   │   └── SPIMla.gif
+│   ├── Chapter-22
+│   │   ├── exceptionOptions.gif
+│   │   ├── fineLetterB.gif
+│   │   ├── fineLetter.gif
+│   │   └── helloOut.gif
+│   ├── Chapter-23
+│   │   ├── highlight.gif
+│   │   ├── la.gif
+│   │   ├── li.gif
+│   │   ├── move.gif
+│   │   └── shiftRot.gif
+│   ├── Chapter-25
+│   │   ├── stackHello.gif
+│   │   ├── stackInts00.gif
+│   │   ├── stackInts01.gif
+│   │   ├── stackInts02.gif
+│   │   └── stackPlates00.gif
+│   ├── Chapter-26
+│   │   ├── callSummary.jpg
+│   │   ├── jalEg.gif
+│   │   ├── monitor.jpg
+│   │   ├── subManyCorrect.gif
+│   │   ├── subMany.gif
+│   │   └── subOnce.gif
+│   ├── Chapter-27
+│   │   ├── convert.gif
+│   │   ├── design.gif
+│   │   ├── doLines.gif
+│   │   ├── getLine.gif
+│   │   ├── mainCallingA.gif
+│   │   ├── main.gif
+│   │   ├── popetBeads.gif
+│   │   ├── prologEpilog.gif
+│   │   ├── pushPopCall.gif
+│   │   └── wynken.jpg
+│   ├── Chapter-28
+│   │   ├── factChain.gif
+│   │   ├── factPict.gif
+│   │   ├── prologEpilog.gif
+│   │   └── stackFrame00.gif
+│   ├── Chapter-29
+│   │   └── numberLine.jpg
+│   ├── Chapter-30
+│   │   ├── ieee10.jpg
+│   │   ├── IEEE754.jpg
+│   │   ├── scientificNotation.gif
+│   │   └── spim1.gif
+│   ├── Chapter-31
+│   │   ├── moveRegsFloat.jpg
+│   │   ├── moveRegsGeneral.jpg
+│   │   ├── oneOneData.gif
+│   │   ├── polyOut.jpg
+│   │   └── printOutput.jpg
+│   ├── Chapter-32
+│   │   └── fpa.gif
+│   ├── Chapter-33
+│   │   ├── fragmentation.gif
+│   │   └── mallocOnePic.gif
+│   ├── Chapter-34
+│   │   ├── advancePointer.gif
+│   │   ├── coreDump.gif
+│   │   ├── emptyList.gif
+│   │   ├── intLinkedList.gif
+│   │   ├── mustardList.gif
+│   │   ├── primeList.gif
+│   │   └── startLinkedList.gif
+│   ├── Chapter-35
+│   │   ├── firstOfEight.gif
+│   │   ├── generalCase.gif
+│   │   ├── headerList.gif
+│   │   ├── secondOfEight.gif
+│   │   ├── thirdOfEight.gif
+│   │   ├── threeNodeList.gif
+│   │   ├── threeNodeListMemDump.gif
+│   │   ├── threeNodeListSecond.gif
+│   │   ├── threeNodeListStart.gif
+│   │   ├── threeNodeListThird.gif
+│   │   └── twoNodeList.gif
+│   ├── Chapter-36
+│   │   ├── dump01.gif
+│   │   ├── helloWorld.gif
+│   │   ├── objectpicture.gif
+│   │   ├── realObjectPicture.gif
+│   │   └── twoObjects.gif
+│   ├── img
+│   │   ├── docusaurus.png
+│   │   ├── docusaurus-social-card.jpg
+│   │   ├── favicon.ico
+│   │   ├── logo.svg
+│   │   ├── undraw_docusaurus_mountain.svg
+│   │   ├── undraw_docusaurus_react.svg
+│   │   └── undraw_docusaurus_tree.svg
+│   └── title.gif
+├── tree
+└── tsconfig.json
+
+864 directories, 3406 files

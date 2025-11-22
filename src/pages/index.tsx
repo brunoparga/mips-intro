@@ -33,8 +33,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="MIPS Assembly Language"
+      description="A modern look for Bradley Kjell's course, Programmed Introduction to MIPS Assembly">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
