@@ -8,8 +8,8 @@ Pattern Names
 ## Answer
 
 Unless memory is at a premium, use 8 bits per pixel.
-With 6 bits, the image could only have 26 = 64 colors;
-with 8 bits, it can have 28 = 256 colors, a considerable
+With 6 bits, the image could only have 2<sup>6</sup> = 64 colors;
+with 8 bits, it can have 2<sup>8</sup> = 256 colors, a considerable
 improvement.
 
 ## Content
@@ -45,7 +45,7 @@ bit patterns into 4-bit groups
 
 ```
 
-There are 16 ( = 24 ) possible patterns in a nibble.
+There are 16 ( = 2<sup>4</sup> ) possible patterns in a nibble.
 **Each pattern has a name**, as seen in the table.
 
 You might be tempted to call those 4-bit patterns "binary numbers".

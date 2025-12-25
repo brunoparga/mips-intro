@@ -17,18 +17,15 @@ number = 54 div 16 = 3
 
 | Algorithm: Convert from base 10 to base B Representation |
 | --- |
-| `
-place  = 0;
+| place  = 0;
 number = number to be converted
          
-while (number > 0 )
-\{
+while (number &gt; 0 )
+&#123;
   digit[place] = number mod B ; 
   number       = number div B ;
   place        = place + 1 ;
-\}            
-
-` |
+&#125; |
 
 **The
  first execution of the loop body calculates the digit for place 0, 
@@ -49,7 +46,7 @@ The 3 becomes the digit, and the 0 becomes *number*.
 
 Because *number* is now zero,
  the algorithm is done,
-and the result is 5410   =   0x36
+and the result is 54<sub>10</sub>   =   0x36
 
 If you are enthused about this
 you might wish to use mathematical induction to prove that the
@@ -57,4 +54,4 @@ algorithm is correct.
 
 ## Question
 
-Convert 24710 to hexadecimal.
+Convert 247<sub>10</sub> to hexadecimal.

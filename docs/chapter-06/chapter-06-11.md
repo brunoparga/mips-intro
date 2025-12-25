@@ -32,7 +32,7 @@ Here is what that means in positional notation:
 
 The base in this system is written `!@` which uses the digits of
 the system to mean one times the first power of the base plus zero
-times the zeroth power of the base.
+times the zero<sup>th</sup> power of the base.
 
 This example illustrates that positional notation can be used without
 the usual digits 0, 1, 2, ..., 9.

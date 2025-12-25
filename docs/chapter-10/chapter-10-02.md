@@ -38,7 +38,7 @@ Memory in the programming model is as follows:
 
 ****DATA:****
 
-**MIPS memory is an array of 232 bytes.**
+**MIPS memory is an array of 2<sup>32</sup> bytes.**
 Each byte has a 32-bit address.
 Each byte can hold an 8-bit pattern,
 one of the 
@@ -47,7 +47,7 @@ The addresses of MIPS main memory range
 from 0x00000000 to 0xFFFFFFFF.
 
 However, user programs and data are
-restricted to the first 231 bytes.
+restricted to the first 2<sup>31</sup> bytes.
 The last half of the address space is used
 for the operating system and for specialized purposes.
 

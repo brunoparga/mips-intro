@@ -8,7 +8,7 @@ More About Patterns
 ## Answer
 
 64K bytes:
-    216 = 2(6 + 10) = 26  ×  210 = 64K
+    2<sup>16</sup> = 2<sup>(6 + 10)</sup> = 2<sup>6</sup>  ×  2<sup>10</sup> = 64K
 
 ## Content
 
@@ -17,16 +17,16 @@ of Bits | Number
 of Patterns | Number of Patterns
 as power of two |
 | --- | --- | --- |
-| 1 | 2 | 21 |
-| 2 | 4 | 22 |
-| 3 | 8 | 23 |
-| 4 | 16 | 24 |
-| 5 | 32 | 25 |
-| 6 | 64 | 26 |
-| 7 | 128 | 27 |
-| 8 | 256 | 28 |
-| 9 | 512 | 29 |
-| 10 | 1024 | 210 |
+| 1 | 2 | 2<sup>1</sup> |
+| 2 | 4 | 2<sup>2</sup> |
+| 3 | 8 | 2<sup>3</sup> |
+| 4 | 16 | 2<sup>4</sup> |
+| 5 | 32 | 2<sup>5</sup> |
+| 6 | 64 | 2<sup>6</sup> |
+| 7 | 128 | 2<sup>7</sup> |
+| 8 | 256 | 2<sup>8</sup> |
+| 9 | 512 | 2<sup>9</sup> |
+| 10 | 1024 | 2<sup>10</sup> |
 
 Many
  calculations involving bit patterns use the following
@@ -52,13 +52,13 @@ how many patterns can be formed from 24 bits?
 
 > ****224   =   24 × 220   =   16 Meg****
 
-The power of two (24)   splits into a small part (24) and
-a part that has a name (220 = Meg).
+The power of two (24)   splits into a small part (2<sup>4</sup>) and
+a part that has a name (2<sup>20</sup> = Meg).
 This is a useful trick you can use
 to amaze your friends and impress
 employers.
 
-In the SI system, meg means 106 so a megabyte is decimal one million bytes.
+In the SI system, meg means 10<sup>6</sup> so a megabyte is decimal one million bytes.
 
 Some audio cards use 12 bits to represent the sound level
 at an instant in time (12 bits per sample).

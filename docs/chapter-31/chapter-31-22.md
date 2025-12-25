@@ -15,10 +15,10 @@ Early microprocessors had no direct support for floating point and such manipula
 
 | Instruction | Operation |
 | --- | --- |
-| `cvt.s.w fs, fw` | Convert the 32-bit integer in float register `$fw` 
+| cvt.s.w fs, fw | Convert the 32-bit integer in float register `$fw` 
  
                              to an IEEE float in register `$fs` |
-| `cvt.w.s fw, fs` | Convert the 32-bit float in register `$fs` 
+| cvt.w.s fw, fs | Convert the 32-bit float in register `$fs` 
  to an integer in float register `$fw` |
 | the "w" means 32-bit integer full word. |   |
 | the "s" means 32-bit single precision. |   |

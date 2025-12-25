@@ -27,7 +27,7 @@ to indicate the sign.
 and "1" indicates a negative integer.**
 The rest of the bits are used
 for the magnitude of the number.
-So  -2410  is represented as:
+So  -24<sub>10</sub>  is represented as:
 
 ```
 1001 1000

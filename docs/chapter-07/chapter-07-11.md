@@ -15,8 +15,8 @@ Here
  is a chart that shows integers zero through fifteen and their
 positional representation using base sixteen, ten, and two.
 
-For example, 01102   =   22 + 21
-   =   6ten    =   6sixteen
+For example, 0110<sub>2</sub>   =   2<sup>2</sup> + 2<sup>1</sup>
+   =   6<sub>ten</sub>    =   6<sub>sixteen</sub>
 
 
 | Rep. in 

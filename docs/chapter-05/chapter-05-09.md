@@ -33,7 +33,7 @@ Ignoring implementation details
 **a file is a sequence of bytes on magnetic media.**
 What can each byte contain?
 A byte on a magnetic disk can hold
-one of 28 (256) possible patterns, 
+one of 2<sup>8</sup> (256) possible patterns, 
 the same as a byte in main storage.
 Reading a byte from disk into a byte of main
 storage copies the pattern from one byte to another.

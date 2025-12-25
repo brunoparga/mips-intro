@@ -9,9 +9,9 @@ Shift Left Logical
 
 2N, twice the original integer.
 
-`0110 0001` = 9710.
+`0110 0001` = 97<sub>10</sub>.
 
-`1100 0010` = 19410.
+`1100 0010` = 194<sub>10</sub>.
 
 (However, if a 1-bit is shifted off the left side,
 then the number is ruined).

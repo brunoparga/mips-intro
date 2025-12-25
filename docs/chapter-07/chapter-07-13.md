@@ -7,7 +7,7 @@ Converting Hex Representation into Binary Representation
 
 ## Answer
 
-1011 0000.  Appending four zeros multiplies the number being represented by 24.
+1011 0000.  Appending four zeros multiplies the number being represented by 2<sup>4</sup>.
 
 ## Content
 
@@ -76,7 +76,7 @@ C6D  = 1100 0110 1101
 
 Each
 digit of hex can be converted into a 4-bit binary number,
-each place of a hex number stands for a power of 24.
+each place of a hex number stands for a power of 2<sup>4</sup>.
 It stands for a number of 4-bit left shifts.
 
 ## Question

@@ -48,7 +48,7 @@ to another pattern.
 
 | How to Construct the Negative of an Integer in Two's Complement: |
 | --- |
-| `Start with an N-bit representation of
+| Start with an N-bit representation of
       an integer (either negative or positive).
 
 
@@ -60,7 +60,7 @@ to another pattern.
 
       - **Reflect  each bit of
       the bit pattern (change 0 to 1, and 1 to 0).**
-- **Add one.**` |
+- **Add one.** |
 
 **This process is called
 **forming the two's complement** of N.**

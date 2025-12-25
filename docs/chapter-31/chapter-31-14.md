@@ -14,28 +14,28 @@ All the other bits stay the same.
 
 | Instruction | Operation |
 | --- | --- |
-| `mov.s  fd, fs` | copy 32 bits from float register `$fs` 
+| mov.s  fd, fs | copy 32 bits from float register `$fs` 
  to float register `$fd` |
-| `mtc1  rs, fd` | `move to coprocessor 1
+| mtc1  rs, fd | move to coprocessor 1
 
 
                              
                              Copy 32 bits from general register 
-                             $rs 
+                             `$rs` 
  
                              to float register 
-                             $fd.
+                             `$fd`.
 
                              No data conversion is done.
                              
 
                              **Note:** the source register is 
 
-                             $rs and the destination
+                             `$rs` and the destination
                              register is 
 
-                             $fd, the reverse of the usual order.` |
-| `mfc1  rd, fs` | move from coprocessor 1
+                             `$fd`, the reverse of the usual order. |
+| mfc1  rd, fs | move from coprocessor 1
 
 
                              copy 32 bits from float register  

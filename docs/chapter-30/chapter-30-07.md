@@ -11,11 +11,11 @@ Negative Exponents
 
 ## Content
 
-| 1.82371 | × | 101 | = | 1.82371 | × | 10 | = | 18.2371 | (move the point 1 place right) |
+| 1.82371 | × | 10<sup>1</sup> | = | 1.82371 | × | 10 | = | 18.2371 | (move the point 1 place right) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.82371 | × | 10-1 | = | 1.82371 | × | .1 | = | .182371 | (move the point 1 place left) |
-| 1.82371 | × | 102 | = | 1.82371 | × | 100 | = | 182.371 | (move the point 2 places right) |
-| 1.82371 | × | 10-2 | = | 1.82371 | × | .01 | = | .0182371 | (move the point 2 places left) |
+| 1.82371 | × | 10<sup>-1</sup> | = | 1.82371 | × | .1 | = | .182371 | (move the point 1 place left) |
+| 1.82371 | × | 10<sup>2</sup> | = | 1.82371 | × | 100 | = | 182.371 | (move the point 2 places right) |
+| 1.82371 | × | 10<sup>-2</sup> | = | 1.82371 | × | .01 | = | .0182371 | (move the point 2 places left) |
 
 
 **The

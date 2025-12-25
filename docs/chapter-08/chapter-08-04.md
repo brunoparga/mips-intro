@@ -23,69 +23,39 @@ except now the base two addition table is used for each
 column.**
 
 
-| ```
-         
+| 0110 1110
+0001 0111 | 0 
 0110 1110
 0001 0111
-         
-
-``` | ```
-       0 
+        1 | 10 
 0110 1110
 0001 0111
-        1
-
-``` | ```
-      10 
+       01 | 110 
 0110 1110
 0001 0111
-       01
-
-``` | ```
-     110 
+      101 | 1 110 
 0110 1110
 0001 0111
-      101
-
-``` | ```
-   1 110 
-0110 1110
-0001 0111
-     0101
-      
-
-``` |
+     0101 |
 | --- | --- | --- | --- | --- |
-| ```
-  11 110 
+| 11 110 
 0110 1110
 0001 0111
-   0 0101
-
-``` | ```
- 111 110 
+   0 0101 | 111 110 
 0110 1110
 0001 0111
-  00 0101
-
-``` | ```
-1111 110 
+  00 0101 | 1111 110 
 0110 1110
 0001 0111
- 000 0101
-
-``` | ```
-01111 110 
+ 000 0101 | 01111 110 
  0110 1110
  0001 0111
- 1000 0101
-
-``` |   |
-| `The carry out of the left column in the final sum
+ 1000 0101 |   |
+| The carry out of the left column in the final sum
 can be discarded, in this case. 
 
 But in general you
-must be careful with it.  See the following pages.` |
+must be careful with it.  See the following pages. |
 
 Check the answer by converting to
 decimal representation and doing the addition in that base

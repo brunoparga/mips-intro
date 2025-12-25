@@ -49,4 +49,4 @@ to decimal:
 
 ## Question
 
-Convert 103310 to hex.
+Convert 1033<sub>10</sub> to hex.

@@ -9,7 +9,7 @@ Further Famous Bit Patterns
 
 You may have noticed that `0111 1111`
 is one less than `1000 0000`,
-which is 128.  So `0111 1111`  represents of 12710.
+which is 128.  So `0111 1111`  represents of 127<sub>10</sub>.
 
 ## Content
 
@@ -49,5 +49,5 @@ See if you can notice something interesting.
 
 ## Question
 
-The bit pattern 0011 0010 represents 5010.
-What bit pattern represents 10010
+The bit pattern 0011 0010 represents 50<sub>10</sub>.
+What bit pattern represents 100<sub>10</sub>

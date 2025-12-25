@@ -10,7 +10,7 @@ title: "1.0"
 - What is the sign bit of 1.0? 0 (for positive)
 - What is the mantissa of 1.0? 000 0000 0000 0000 0000 0000
 - What is the actual exponent of 1.0? 0
-- What is the biased exponent of 1.0? 12710   =   0111 11112
+- What is the biased exponent of 1.0? 127<sub>10</sub>   =   0111 1111<sub>2</sub>
 
 ## Content
 

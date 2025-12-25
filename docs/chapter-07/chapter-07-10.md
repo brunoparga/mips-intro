@@ -16,7 +16,7 @@ What is sixteen times 8B3 ?
 Adding
  a 0 to the end of an integer written in base sixteen multiplies
 the integer by sixteen.
-To multiply an integer by sixteenN, add N zeros on the right:
+To multiply an integer by sixteen<sup>N</sup>, add N zeros on the right:
 
 ```
 8B3 × 103 = 8B3000      (Here 10 means sixteen.)

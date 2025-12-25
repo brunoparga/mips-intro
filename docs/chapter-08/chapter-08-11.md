@@ -24,7 +24,7 @@ The carry bit of 1 out of the high order column
 can not represent negative integers.**
 With paper and pencil numbers,
 a number is made negative by putting
-a negative sign in front of it: 2410  negated =  -2410.
+a negative sign in front of it: 24<sub>10</sub>  negated =  -24<sub>10</sub>.
 You might hope to do the same with
 binary integers:
 

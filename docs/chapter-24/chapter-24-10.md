@@ -38,18 +38,18 @@ and for others it makes no difference.
 | Mnemonic | Operands | Description | signed or
 unsigned? |
 | --- | --- | --- | --- |
-| seq | `d,s,t` | set d if s==t |   |
-| sge | `d,s,t` | `set d if s>=t` | signed |
-| sgeu | `d,s,t` | `set d if s>=t` | unsigned |
-| sgt | `d,s,t` | `set d if s> t` | signed |
-| sgtu | `d,s,t` | `set d if s> t` | unsigned |
-| sle | `d,s,t` | `set d if s<=t` | signed |
-| sleu | `d,s,t` | `set d if s<=t` | unsigned |
-| slt | `d,s,t` | `set d if s< t` | signed |
-| slti | `d,s,Imm` | `set d if s< Imm` | signed |
-| sltu | `d,s,t` | `set d if s< t` | unsigned |
-| sltiu | `d,s,Imm` | `set d if s< Imm` | unsigned |
-| sne | `d,s,t` | set d if s != t |   |
+| seq | d,s,t | set d if s==t |   |
+| sge | d,s,t | set d if s&gt;=t | signed |
+| sgeu | d,s,t | set d if s&gt;=t | unsigned |
+| sgt | d,s,t | set d if s&gt; t | signed |
+| sgtu | d,s,t | set d if s&gt; t | unsigned |
+| sle | d,s,t | set d if s&lt;=t | signed |
+| sleu | d,s,t | set d if s&lt;=t | unsigned |
+| slt | d,s,t | set d if s&lt; t | signed |
+| slti | d,s,Imm | set d if s&lt; Imm | signed |
+| sltu | d,s,t | set d if s&lt; t | unsigned |
+| sltiu | d,s,Imm | set d if s&lt; Imm | unsigned |
+| sne | d,s,t | set d if s != t |   |
 
 ## Question
 

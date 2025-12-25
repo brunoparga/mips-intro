@@ -47,7 +47,7 @@ The address `addr` must be full-word aligned, a multiple of four.
 
 ## Question
 
-Every one of the 232 patterns that 32 bits can form is a legal
+Every one of the 2<sup>32</sup> patterns that 32 bits can form is a legal
 two's complement integer.
 
 Are some 32-bit patterns not legal as floating point values?

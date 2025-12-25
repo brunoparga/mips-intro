@@ -21,8 +21,8 @@ which leaves seven bits
 for the magnitude.
 The magnitude
 uses  7-bit  unsigned binary,
-which can represent 010  (as 000 0000) 
-up to 12710  `(as 111 1111).`
+which can represent 0<sub>10</sub>  (as 000 0000) 
+up to 127<sub>10</sub>  `(as 111 1111).`
 The eighth bit makes these positive
 or negative, resulting in  
 `-12710, ... -0, 0, ... 12710`.

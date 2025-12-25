@@ -20,7 +20,7 @@ as the base 16 representation of the integer.**
 
 Converting between base 16 representation and base 2 representation
 is easy because 16 is a power of 2.
-Another base where this is true is base 8 (octal), since 8 is 23.
+Another base where this is true is base 8 (octal), since 8 is 2<sup>3</sup>.
 In base 8, the digits are 0, 1, 2, 3, 4, 5, 6, and 7.
 The binary equivalents of the digits are 
 000, 001, 010, 011, 100, 101, 110, 111.

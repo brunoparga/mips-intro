@@ -64,7 +64,7 @@ are shifted into the right-most byte one by
 one and written to memory.
 
 **The `.space`
-directive reserves bytes in memory, in this case 102410 bytes.**
+directive reserves bytes in memory, in this case 1024<sub>10</sub> bytes.**
 Pretend this is the buffer from which a tape record will be written.
 The example program deals with just the first four bytes,
 but in a real program all 1K bytes of the buffer would be collected

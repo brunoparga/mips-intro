@@ -21,7 +21,7 @@ Decimal to base 5
 The
  conversion algorithm works to convert a decimal representation
 of a number to any base.
-Here is a conversion of 103310 to base 5:
+Here is a conversion of 1033<sub>10</sub> to base 5:
 
 ![conversion to base 5](/Chapter-07/conversionBase5.gif)
 
@@ -38,4 +38,4 @@ So `103310 = 131135`  
 
 ## Question
 
-Convert 10010 to base 3.
+Convert 100<sub>10</sub> to base 3.

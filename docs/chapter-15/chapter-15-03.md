@@ -57,9 +57,9 @@ In
 these definitions, the data, a 32-bit pattern, is regarded as
 a 32-bit unsigned integer.
 The "most significant" byte is the one  
-for the largest powers of two: 231, ..., 224.
+for the largest powers of two: 2<sup>31</sup>, ..., 2<sup>24</sup>.
 The "least significant" byte is the one  
-for the smallest powers of two: 27, ..., 20.
+for the smallest powers of two: 2<sup>7</sup>, ..., 2<sup>0</sup>.
 
 For example, say that the 32-bit pattern 0x12345678
 is stored at address 0x00400000.

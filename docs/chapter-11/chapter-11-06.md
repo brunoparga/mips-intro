@@ -9,18 +9,18 @@ Example
 
 | Instruction A | Instruction B | Same? | Different? | Comment |
 | --- | --- | --- | --- | --- |
-| `ori  $4,$0,0x8` | `ori  $4,$0,8` |   |   | 0x8 and 8
+| ori  $4,$0,0x8 | ori  $4,$0,8 |   |   | 0x8 and 8
  specify same 16-bit pattern:
 0000 0000 0000 1000 |
-| `ori  $4,$0,0x32` | `ori  $4,$0,50` |   |   | 0x32 and 26
+| ori  $4,$0,0x32 | ori  $4,$0,50 |   |   | 0x32 and 26
  specify same 16-bit pattern:
 0000 0000 0011 0010 |
-| `ori  $3,$10,26` | `ori  $3,$0,26` |   |   | the operand registers differ |
-| `ori  $9,$10,0x000` | `ori  $9,$10,0` |   |   | 0x000 and 0
+| ori  $3,$10,26 | ori  $3,$0,26 |   |   | the operand registers differ |
+| ori  $9,$10,0x000 | ori  $9,$10,0 |   |   | 0x000 and 0
  specify same 16-bit pattern:
 0000 0000 0000 0000 |
-| `ori  $10,$9,45` | `ori  $10,$9,45` |   |   | same instruction |
-| `ori  $5,$5,0x21` | `ori  $5,$5,21` |   |   | different 16-bit
+| ori  $10,$9,45 | ori  $10,$9,45 |   |   | same instruction |
+| ori  $5,$5,0x21 | ori  $5,$5,21 |   |   | different 16-bit
  immediate operands |
 
 ## Content

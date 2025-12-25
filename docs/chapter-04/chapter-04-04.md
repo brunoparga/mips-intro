@@ -12,11 +12,11 @@ can hold part of a program or part of some data.
 
 ## Content
 
-| **kilobyte:** | 210 = 1024 bytes |
+| **kilobyte:** | 2<sup>10</sup> = 1024 bytes |
 | --- | --- |
-| **megabyte:** | 220 = 1024 kilobytes |
-| **gigabyte:** | 230 = 1024 megabytes |
-| **terabyte:** | 240 = 1024 gigabytes |
+| **megabyte:** | 2<sup>20</sup> = 1024 kilobytes |
+| **gigabyte:** | 2<sup>30</sup> = 1024 megabytes |
+| **terabyte:** | 2<sup>40</sup> = 1024 gigabytes |
 
 **In practice, data and instructions are often placed in
 different sections of memory,** but this is a matter

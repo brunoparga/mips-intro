@@ -9,7 +9,7 @@ sidebar_position: 1
 ### QtSpim Edition, August 2015
 
 
-| `This is a course in 
+| This is a course in 
   assembly language programming of 
   the MIPS processor. 
   It emphasizes the topics needed for study 
@@ -52,7 +52,7 @@ The only equipment you need for this course is a PC.
   operating system.
   However, you can use any
   platform that runs SPIM.
-  (There are many).` | `Assembly Language is normally taken
+  (There are many). | Assembly Language is normally taken
 the semester after a course in a high level programming
 language (such as Java or C).
 This course assumes that you have this background
@@ -77,7 +77,7 @@ example programs,
 write some programs of your own, 
 and then think about
 your results.
-This may take several hours.` |
+This may take several hours. |
 | --- | --- |
 
 ## Part 1: Prelude to Assembly Language

@@ -39,7 +39,7 @@ The decimal value 40000 is too large to represent in 16 bits,
 so the instruction cannot be translated into a basic
 `addiu`
 instruction.
-Two instructions must be used to add `$s0` to 4000010
+Two instructions must be used to add `$s0` to 40000<sub>10</sub>
 and to place the result in `$t0`.
 
 ## Question

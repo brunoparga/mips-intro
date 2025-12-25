@@ -39,7 +39,7 @@ function decodeHtmlEntities(text: string): string {
   return result;
 }
 
-function htmlToMarkdown($: cheerio.CheerioAPI, element: any, currentChapter?: string): string {
+function htmlToMarkdown($: cheerio.CheerioAPI, element: any, currentChapter?: string, insideTable = false): string {
   if (!element) return '';
   
   const $el = $(element);
@@ -68,9 +68,28 @@ function htmlToMarkdown($: cheerio.CheerioAPI, element: any, currentChapter?: st
       return `*${$el.text().trim()}*`;
     case 'code':
     case 'tt':
-      return `\`${$el.text().trim()}\``;
+      let codeText = $el.text().trim();
+      if (insideTable) {
+        // Escape comparison operators that MDX would parse as JSX in table cells
+        codeText = codeText
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;');
+      }
+      return `\`${codeText}\``;
+    case 'sub':
+      return `<sub>${$el.text().trim()}</sub>`;
+    case 'sup':
+      return `<sup>${$el.text().trim()}</sup>`;
     case 'pre':
       const codeContent = $el.text();
+      if (insideTable) {
+        // Can't use triple backticks inside table cells - use HTML entities
+        return codeContent
+          .replace(/\{/g, '&#123;')
+          .replace(/\}/g, '&#125;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;');
+      }
       // Check if it looks like MIPS assembly
       const isMips = codeContent.includes('$') || codeContent.includes('ori') || codeContent.includes('addu');
       return `\`\`\`${isMips ? 'mips' : ''}\n${codeContent}\n\`\`\`\n\n`;
@@ -82,13 +101,11 @@ function htmlToMarkdown($: cheerio.CheerioAPI, element: any, currentChapter?: st
         const cells: string[] = [];
         $(tr).find('th, td').each((_, cell) => {
           const $cell = $(cell);
-          let cellText = processInlineContent($, $cell, currentChapter).trim();
-          // Escape problematic characters for MDX
+          let cellText = processInlineContent($, $cell, currentChapter, true).trim();
+          
+          // Only escape pipe for markdown table syntax
           cellText = cellText.replace(/\|/g, '\\|');
-          // Put content with commas or angle brackets in backticks
-          if (cellText.includes(',') || cellText.includes('<') || cellText.includes('>')) {
-            cellText = '`' + cellText.replace(/`/g, '') + '`';
-          }
+          
           cells.push(cellText || ' ');
         });
         rows.push(cells);
@@ -203,13 +220,18 @@ function htmlToMarkdown($: cheerio.CheerioAPI, element: any, currentChapter?: st
   }
 }
 
-function processInlineContent($: cheerio.CheerioAPI, $el: cheerio.Cheerio<any>, currentChapter?: string): string {
+function processInlineContent($: cheerio.CheerioAPI, $el: cheerio.Cheerio<any>, currentChapter?: string, insideTable = false): string {
   let result = '';
   $el.contents().each((_, node) => {
     if (node.type === 'text') {
-      result += decodeHtmlEntities($(node).text());
+      let text = decodeHtmlEntities($(node).text());
+      if (insideTable) {
+        // Escape comparison operators in table cells
+        text = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      }
+      result += text;
     } else {
-      result += htmlToMarkdown($, node, currentChapter);
+      result += htmlToMarkdown($, node, currentChapter, insideTable);
     }
   });
   return result.trim();
@@ -491,7 +513,8 @@ function convertHtmlFile(htmlPath: string, chapterNum: string, pageNum: number):
         textContent = textContent.replace(/([a-z]&lt;=[a-z])([a-z]+),([a-z])/g, '$1 $2, $3');
         textContent = textContent.replace(/([a-z]&gt;=[a-z])([a-z]+),([a-z])/g, '$1 $2, $3');
         // Escape comparison operators to prevent MDX parsing errors
-        textContent = textContent.replace(/<=/g, '&lt;=').replace(/>=/g, '&gt;=');
+        // Don't escape if part of HTML tag (negative lookahead for tag patterns)
+        textContent = textContent.replace(/<=(?![a-z>])/g, '&lt;=').replace(/>=(?![a-z>])/g, '&gt;=');
         // Escape lone curly braces in text
         textContent = textContent.replace(/\{/g, '\\{').replace(/\}/g, '\\}');
         return textContent;
@@ -726,7 +749,5 @@ ${content}`;
 }
 
 // @ts-ignore - Bun-specific property
-if (import.meta.main) {
-  main();
-}
+main();
 

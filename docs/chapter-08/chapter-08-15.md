@@ -41,5 +41,5 @@ Look at another interesting case:
 
 ## Question
 
-A number added to 1410  results in a zero.
+A number added to 14<sub>10</sub>  results in a zero.
 What could that number be?

@@ -24,10 +24,10 @@ A  non-zero integer and its negative can't both be represented by the
 same pattern.
 So +128 can not be represented in eight bits.
 **The maximum positive integer that can be represented in
-eight bits is 12710.**
+eight bits is 127<sub>10</sub>.**
 
 What number is represented by 1000 0000?
-Add the representation of 12710 to it:
+Add the representation of 127<sub>10</sub> to it:
 
 ```
 
@@ -37,18 +37,15 @@ Add the representation of 12710 to it:
 
 ```
 
-A good choice for ? is -12810. 
-**Therefore 1000 0000 represents -12810.**
+A good choice for ? is -128<sub>10</sub>. 
+**Therefore 1000 0000 represents -128<sub>10</sub>.**
 Eight bits can be used to represent the numbers 
- -12810 ... 0 ... +12710.
+ -128<sub>10</sub> ... 0 ... +127<sub>10</sub>.
 
 
 | Range of  N Bit 2's Complement |
 | --- |
-| ```
--( 2(N-1) )  ... 0 ... 2(N-1) - 1
-
-``` |
+| -( 2(N-1) )  ... 0 ... 2(N-1) - 1 |
 
 For example, the range of integers that can be represented in eight bits using
 two's complement is:

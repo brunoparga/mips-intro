@@ -29,4 +29,4 @@ it is convenient to have a table.
 
 ## Question
 
-What is 100.012 expressed in decimal?
+What is 100.01<sub>2</sub> expressed in decimal?

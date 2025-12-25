@@ -47,15 +47,15 @@ are translated into.
 unsigned? | Mnemonic | Operands | Description | signed or
 unsigned? |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| b | label | branch |   | beq | `s,t,label` | branch if s==t |   |
-| beqz | `s,label` | branch if s==0 |   | bge | `s,t,label` | `branch if s>=t` | signed |
-| bgeu | `s,t,label` | `branch if s>=t` | unsigned | bgez | `s,label` | `branch if s>=0` | signed |
-| bgt | `s,t,label` | `branch if s>t` | signed | bgtu | `s,t,label` | `branch if s>t` | unsigned |
-| bgtz | `s,label` | `branch if s>0` | signed | ble | `s,t,label` | `branch if s<=t` | signed |
-| bleu | `s,t,label` | `branch if s<=t` | unsigned | blez | `s,label` | `branch if s<=0` | signed |
-| blt | `s,t,label` | `branch if s<t` | signed | bltu | `s,t,label` | `branch if s<t` | unsigned |
-| bltz | `s,label` | `branch if s<0` | signed | bnez | `s,label` | branch if s != 0 |   |
-| bne | `s,t,label` | branch if
+| b | label | branch |   | beq | s,t,label | branch if s==t |   |
+| beqz | s,label | branch if s==0 |   | bge | s,t,label | branch if s&gt;=t | signed |
+| bgeu | s,t,label | branch if s&gt;=t | unsigned | bgez | s,label | branch if s&gt;=0 | signed |
+| bgt | s,t,label | branch if s&gt;t | signed | bgtu | s,t,label | branch if s&gt;t | unsigned |
+| bgtz | s,label | branch if s&gt;0 | signed | ble | s,t,label | branch if s&lt;=t | signed |
+| bleu | s,t,label | branch if s&lt;=t | unsigned | blez | s,label | branch if s&lt;=0 | signed |
+| blt | s,t,label | branch if s&lt;t | signed | bltu | s,t,label | branch if s&lt;t | unsigned |
+| bltz | s,label | branch if s&lt;0 | signed | bnez | s,label | branch if s != 0 |   |
+| bne | s,t,label | branch if
  s != t |   | != means not equal |
 
 ## Question

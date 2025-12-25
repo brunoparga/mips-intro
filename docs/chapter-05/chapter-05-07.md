@@ -26,7 +26,7 @@ a particular pattern represents.
 | . . . | . . . | . . . | . . . |
 | 0A   lf | 2A   * | 4A   J | 6A   j |
 | . . . | . . . | . . . | . . . |
-| 1E   rs | `3E   >` | 5E   ^ | 7E   ~ |
+| 1E   rs | 3E   &gt; | 5E   ^ | 7E   ~ |
 | 1F   us | 3F   ? | 5F   _ | 7F   del |
 
 **The chart shows some patterns used in ASCII to represent characters.**

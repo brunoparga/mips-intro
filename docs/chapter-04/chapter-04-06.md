@@ -16,8 +16,8 @@ that consists of all 1 bits?
 
 ![virtual memory](/Chapter-04/virtualMem.gif)
 
-The MIPS32 has an address space of 232 bytes.
-A Gigabyte is 230, so the MIPS has 4 gigabytes
+The MIPS32 has an address space of 2<sup>32</sup> bytes.
+A Gigabyte is 2<sup>30</sup>, so the MIPS has 4 gigabytes
 of address space.
 Ideally, all of these memory locations would
 be implemented using memory chips
@@ -34,7 +34,7 @@ and the operating system
 work together to provide the full 32 bit
 address space.
 To a user or an applications programmer
-it looks as if all 232
+it looks as if all 2<sup>32</sup>
 bytes of main memory are present.
 
 **This method of providing the full address space

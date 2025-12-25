@@ -28,18 +28,15 @@ If the left group is one or two bits short, add zero bits on the left as needed.
 
 | Algorithm: Convert from base 10 to base B Representation |
 | --- |
-| `
-place  = 0;
+| place  = 0;
 number = number to be converted
          
-while (number > 0 )
-\{
+while (number &gt; 0 )
+&#123;
   digit[place] = number mod B ; 
   number       = number div B ;
   place        = place + 1 ;
-\}            
-
-` |
+&#125; |
 
 You
 already know how to convert from Base B to Decimal.
@@ -54,7 +51,7 @@ from decimal representation to base B representation.**
 For example,
 `15 div 6 = 2` and `15 mod 6 = 3`.
 
-Here is an example: convert 5410 to hex representation.
+Here is an example: convert 54<sub>10</sub> to hex representation.
 The base `B` is 16.
 The first execution of the loop body  calculates `digit[0]`
 the right-most digit of the hex number.

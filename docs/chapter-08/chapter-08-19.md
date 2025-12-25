@@ -48,7 +48,7 @@ So one way to answer this question is to start with
 zero, check that it can be represented,
 then check one, then check minus one, then check two,
 then check minus two ...
-Let's skip most of those steps and check 12710:
+Let's skip most of those steps and check 127<sub>10</sub>:
 
 ```
        127 =  0111 1111            check:   0111 1111
@@ -61,7 +61,7 @@ Let's skip most of those steps and check 12710:
 
 ## Question
 
-Now try to compute the negative of 128ten.
+Now try to compute the negative of 128<sub>ten</sub>.
 
 
 

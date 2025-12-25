@@ -28,7 +28,7 @@ Make two copies of the 4-bit patterns
 (16 patterns per copy).
 Make the patterns unique by prefixing "0" to
 the first 16 patterns and "1" to the second 16.
-You now have 16×2 = 25 unique patterns.
+You now have 16×2 = 2<sup>5</sup> unique patterns.
 This demonstrates the following:
 
 
@@ -64,10 +64,10 @@ The SI kB has fewer bytes than the binary KB, so the "k" is small.
 | Number of Bits | Number of Patterns | Number of Patterns
 as power of two |
 | --- | --- | --- |
-| 1 | 2 | 21 |
-| 2 | 4 | 22 |
-| 3 | 8 | 23 |
-| 4 | 16 | 24 |
+| 1 | 2 | 2<sup>1</sup> |
+| 2 | 4 | 2<sup>2</sup> |
+| 3 | 8 | 2<sup>3</sup> |
+| 4 | 16 | 2<sup>4</sup> |
 
 ## Question
 

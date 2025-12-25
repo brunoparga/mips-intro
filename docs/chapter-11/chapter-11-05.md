@@ -62,9 +62,9 @@ machine language?  Put an X in the correct box in each row.
 
 | Instruction A | Instruction B | Same? | Different? |
 | --- | --- | --- | --- |
-| `ori  $4,$0,0x8` | `ori  $4,$0,8` |   |   |
-| `ori  $4,$0,0x32` | `ori  $4,$0,50` |   |   |
-| `ori  $3,$10,26` | `ori  $3,$0,26` |   |   |
-| `ori  $9,$10,0x000` | `ori  $9,$10,0` |   |   |
-| `ori  $10,$9,45` | `ori  $10,$9,45` |   |   |
-| `ori  $5,$5,0x21` | `ori  $5,$5,21` |   |   |
+| ori  $4,$0,0x8 | ori  $4,$0,8 |   |   |
+| ori  $4,$0,0x32 | ori  $4,$0,50 |   |   |
+| ori  $3,$10,26 | ori  $3,$0,26 |   |   |
+| ori  $9,$10,0x000 | ori  $9,$10,0 |   |   |
+| ori  $10,$9,45 | ori  $10,$9,45 |   |   |
+| ori  $5,$5,0x21 | ori  $5,$5,21 |   |   |

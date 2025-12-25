@@ -17,13 +17,13 @@ Also, C implemented on a weird machine might be non-standard).
 
 | Instruction | Operation |
 | --- | --- |
-| `abs.s fd,fs` | $fd = \|$fs\| |
-| `add.s fd,fs,ft` | $fd = $fs + $ft |
-| `sub.s fd,fs,ft` | $fd = $fs - $ft |
-| `mul.s fd,fs,ft` | $fd = $fs * $ft |
-| `div.s fd,fs,ft` | $fd = $fs / $ft |
-| `neg.s fd,fs` | $fd = -$fs |
-| `mov.s fd,fs` | $fd = $fs |
+| abs.s fd,fs | $fd = \|$fs\| |
+| add.s fd,fs,ft | $fd = $fs + $ft |
+| sub.s fd,fs,ft | $fd = $fs - $ft |
+| mul.s fd,fs,ft | $fd = $fs * $ft |
+| div.s fd,fs,ft | $fd = $fs / $ft |
+| neg.s fd,fs | $fd = -$fs |
+| mov.s fd,fs | $fd = $fs |
 
 Here are some single precision arithmetic instructions.
 Each of these corresponds to one machine instruction.

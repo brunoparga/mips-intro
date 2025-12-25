@@ -16,7 +16,7 @@ A ― this is the name of the pattern the four bits make.
 The
 name of the binary pattern 1010 is "A".
 The hex digit that
-corresponds to the integer represented by 10102 is also "A".
+corresponds to the integer represented by 1010<sub>2</sub> is also "A".
 
 It is OK to have a pattern that has the name "A" and also to use
 "A" as a digit.
@@ -28,9 +28,7 @@ same digit as the bit pattern name.**
 
 | Base Sixteen Digits: | When describing Bit Patterns: | Hex digits in Binary |
 | --- | --- | --- |
-| `
-
-0  is a digit, 
+| 0  is a digit, 
    representing 
    zero. 
 .
@@ -44,11 +42,7 @@ A  is a digit,
 .
 F  is a digit, 
    representing  
-   fifteen. 
-
-` | ```
-
-0  is the name 
+   fifteen. | 0  is the name 
    of the pattern 
    0000
 .
@@ -62,11 +56,7 @@ A  is the name
 .
 F  is the name 
    of the pattern 
-   1111
-
-``` | ```
-
-0  in 4-bit 
+   1111 | 0  in 4-bit 
    binary is 
    0000 
 .
@@ -80,9 +70,7 @@ A  in 4-bit
 .
 F  in 4-bit 
    binary is 
-   1111
-
-``` |
+   1111 |
 
 The name of a 4-bit pattern 
 (regarded as an abstract pattern)

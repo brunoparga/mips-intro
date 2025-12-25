@@ -10,9 +10,9 @@ Base 16 Representation
 4095
 
 Hopefully you did something clever: you realized that
-the  represented number is 2N - 1 which must be an odd number.
-( 2N means 2 × 2 × 2 ... × 2 it must be even.
-So 2N - 1 must be odd. )
+the  represented number is 2<sup>N</sup> - 1 which must be an odd number.
+( 2<sup>N</sup> means 2 × 2 × 2 ... × 2 it must be even.
+So 2<sup>N</sup> - 1 must be odd. )
 
 So you picked the only odd number in the list.
 Or else you ignored the question.

@@ -12,7 +12,7 @@ How can you solve for the allowed range of `x`?
 
 The result, `poly` must fit into
 32 bits, two's complement.
-So -231 ≤ 5x2 -12x + 97 ≤ 231 - 1.
+So -2<sup>31</sup> ≤ 5x<sup>2</sup> -12x + 97 ≤ 2<sup>31</sup> - 1.
 Further algebraic fussing gives the range of `x`.
 
 ## Content

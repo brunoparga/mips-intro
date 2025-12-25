@@ -19,8 +19,8 @@ used to load a 32-bit register with the
 top half and bottom half of a 32-bit integer:**
 
 
-| `li $v1,0x12345678` | `==` | `lui $v1,0x1234
-ori $v1,$v1,0x5678` |
+| `li $v1,0x12345678` | `==` | `lui $v1,0x1234`
+`ori $v1,$v1,0x5678` |
 | --- | --- | --- |
 
 Here,

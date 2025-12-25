@@ -27,7 +27,7 @@ reviewed.
 
 ## Question
 
-Multiply 9910 times 9910 : .
+Multiply 99<sub>10</sub> times 99<sub>10</sub> : .
 
 How many decimal places does each operand (99) have: .
 

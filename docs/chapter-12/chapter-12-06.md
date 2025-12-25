@@ -36,7 +36,7 @@ or a positive two's comp. integer,
 then a right shift of one bit position
 performs an integer divide by two.
 A right shift by N positions performs
-an integer divide by 2N.
+an integer divide by 2<sup>N</sup>.
 
 The "trick" of dividing an integer by
 shifting should not be used in place

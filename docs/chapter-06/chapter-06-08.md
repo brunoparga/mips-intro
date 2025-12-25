@@ -51,7 +51,7 @@ Actually, the above sum should be written as follows.
 To avoid confusion,
 sometimes the base being used
 is placed as a subscript:
-4215 means that base 5 is being used.
+421<sub>5</sub> means that base 5 is being used.
 It is conventional to show the subscript in base 10.
 
 ## Question

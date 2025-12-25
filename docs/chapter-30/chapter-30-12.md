@@ -28,7 +28,7 @@ mantissa represents a number in
 **Very tricky:** **The mantissa represents the 23-bit binary fraction part
 of a 24-bit number that starts with a "1".**
 
-The 20 place (the one's place) is  presumed
+The 2<sup>0</sup> place (the one's place) is  presumed
 to always contain a 1 and *is not present in the mantissa.*
 This trick gives us 24 bits of precision with only 23 bits.
 

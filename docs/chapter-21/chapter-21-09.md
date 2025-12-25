@@ -24,7 +24,7 @@ li  $t2,-156
 
 ```
 
-This puts the two's complement representation of -15610
+This puts the two's complement representation of -156<sub>10</sub>
 into register `$t2`.
 However, this can not be done with 
 `ori`

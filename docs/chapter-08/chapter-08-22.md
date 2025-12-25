@@ -35,8 +35,8 @@ The number represented by 1001 is negative
 ```
 
 Convert the result to decimal:  `0111 = 710`.
-  Add a negative sign:   -710.
-  So (in 4-bit two's complement representation) 1001 represents -710.
+  Add a negative sign:   -7<sub>10</sub>.
+  So (in 4-bit two's complement representation) 1001 represents -7<sub>10</sub>.
 
 ## Question
 

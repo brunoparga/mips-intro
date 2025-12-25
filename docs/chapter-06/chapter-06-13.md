@@ -18,9 +18,9 @@ Representing Numbers using Base Two
 
 ## Content
 
-| 1011 | = | 1 × (10)11 | + | 0 × (10)10 | + | 1 × (10)1 | + | 1 × (10)0 |
+| 1011 | = | 1 × (10)<sup>11</sup> | + | 0 × (10)<sup>10</sup> | + | 1 × (10)<sup>1</sup> | + | 1 × (10)<sup>0</sup> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | = | 1 × 23 | + | 0 × 22 | + | 1 × 21 | + | 1 × 20 |
+|   | = | 1 × 2<sup>3</sup> | + | 0 × 2<sup>2</sup> | + | 1 × 2<sup>1</sup> | + | 1 × 2<sup>0</sup> |
 |   | = | 1 × 8 | + | 0 × 4 | + | 1 × 2 | + | 1 × 1 |
 |   | = | 8 | + | 0 | + | 2 | + | 1 |
 |   | = | 11 |   |   |   |   |   |   |
@@ -33,7 +33,7 @@ and usually the word **bit** is used.
 "Bit" is an abbreviation of "binary digit".
 
 In this system the base, two, is written "10",
-the first power of two plus zero times the zeroth
+the first power of two plus zero times the zero<sup>th</sup>
 power of two.
 Each place in a representation stands for a
 power of two.

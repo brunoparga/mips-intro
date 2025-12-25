@@ -30,7 +30,7 @@ other pattern.
 ## Question
 
 Find the 8-bit pattern that gives eight zero-bits when
-added to the bit pattern for 610.  
+added to the bit pattern for 6<sub>10</sub>.  
 (Hint: start at the right column,
 figure out what the ? has to be in each column, and work your way left.)
 

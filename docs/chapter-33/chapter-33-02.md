@@ -7,14 +7,14 @@ Review of Memory
 
 ## Answer
 
-232  — about four billion
+2<sup>32</sup>  — about four billion
 
 ## Content
 
 ![Memory Layout](/Chapter-10/memoryLayout.gif)
 
 Recall 
-(from chapter 10) that there are 232 bytes
+(from chapter 10) that there are 2<sup>32</sup> bytes
 available in main memory, each one with its own address.
 Most of these bytes are *virtual*.
 They are implemented by the virtual memory system and do
@@ -26,7 +26,7 @@ the processor is shared among many executing programs.
 But the operating system makes it appear to each
 executing program as if it is the only one running on the system.
 Also, the operating system makes it look to each program as if
-231 bytes are there for it alone.
+2<sup>31</sup> bytes are there for it alone.
 (The other half of memory is for the operating system.)
 
 For these chapters,

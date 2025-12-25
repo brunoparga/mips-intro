@@ -28,14 +28,14 @@ Who needs that old assembler, anyway?
 | --- | --- | --- |
 | $0 | zero | Permanently 0 |
 | $1 | $at | Assembler Temporary (reserved) |
-| `$2, $3` | `$v0, $v1` | Value returned by a subroutine |
+| $2, $3 | $v0, $v1 | Value returned by a subroutine |
 | $4-$7 | $a0-$a3 | Arguments to a subroutine |
 | $8-$15 | $t0-$t7 | Temporary
  (not preserved across a function call) |
 | $16-$23 | $s0-$s7 | Saved registers
  (preserved across a function call) |
-| `$24, $25` | `$t8, $t9` | Temporary |
-| `$26, $27` | `$k0, $k1` | Kernel (reserved for OS) |
+| $24, $25 | $t8, $t9 | Temporary |
+| $26, $27 | $k0, $k1 | Kernel (reserved for OS) |
 | $28 | $gp | Global Pointer |
 | $29 | $sp | Stack Pointer |
 | $30 | $fp | Frame Pointer |

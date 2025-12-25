@@ -20,7 +20,7 @@ BECA      1011 1110 1100 1010
 | AND | OR | XOR | NOR |
 | --- | --- | --- | --- |
 | `and  d,s,t` | `or  d,s,t` | `xor  d,s,t` | `nor  d,s,t` |
-| `$d <— $s and $t` | `$d <—  $s or $t` | `$d <— $s xor $t` | `$d <—  $s nor $t` |
+| `$d &lt;— $s and $t` | `$d &lt;—  $s or $t` | `$d &lt;— $s xor $t` | `$d &lt;—  $s nor $t` |
 
 **The
  table shows the register with register

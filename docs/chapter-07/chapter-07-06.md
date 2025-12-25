@@ -7,7 +7,7 @@ Unisgned Binary
 
 ## Answer
 
-28 - 1   =  256 - 1   =  255.
+2<sup>8</sup> - 1   =  256 - 1   =  255.
 
 There are 256 patterns possible with 8 bits.
 But when these patterns represent integers,
@@ -24,13 +24,13 @@ is what they mean.
 Here are some of its characteristics:
 
 - With N bits, 
-the integers 0, 1, 2,  ... , 2N - 1 can be
+the integers 0, 1, 2,  ... , 2<sup>N</sup> - 1 can be
 represented.
-  - So, for instance, with 8 bits, the integers 0, 1,  ..., 28 - 1
+  - So, for instance, with 8 bits, the integers 0, 1,  ..., 2<sup>8</sup> - 1
   can be represented.
   This is 0 ... 255.
 - With N bits, zero is represented by 0....0....0 (all 0's).
-- (2N - 1) is represented by 1....1....1 (all 1's).
+- (2<sup>N</sup> - 1) is represented by 1....1....1 (all 1's).
 
 These facts are **NOT always true** for other representation schemes!
 Know what scheme is being used before you decide what

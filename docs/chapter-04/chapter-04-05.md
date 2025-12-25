@@ -15,7 +15,7 @@ A byte.
 
 **Each byte of  main storage has an **address**.**
 Many processors use 32-bit addresses, 
-so there are 232 possible
+so there are 2<sup>32</sup> possible
 addresses.
 Think of main storage as if it were an array:
 

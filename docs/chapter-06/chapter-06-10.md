@@ -7,15 +7,15 @@ Base Seven
 
 ## Answer
 
-Change the representation of 1025 from base five to base ten.
+Change the representation of 102<sub>5</sub> from base five to base ten.
 
-1025   =   1 × 5102  +  0 × 5101 + 2 × 5100
-   =   2510 + 210   =   2710
+102<sub>5</sub>   =   1 × 5<sub>10</sub><sup>2</sup>  +  0 × 5<sub>10</sub><sup>1</sup> + 2 × 5<sub>10</sub><sup>0</sup>
+   =   25<sub>10</sub> + 2<sub>10</sub>   =   27<sub>10</sub>
 
 ## Content
 
 Here
-is another example:  **3267.**  
+is another example:  **326<sub>7</sub>.**  
 This means:
 
 ```
@@ -37,4 +37,4 @@ and perform the arithmetic:
 
 ## Question
 
-Can   6827   be rewritten in base ten notation?
+Can   682<sub>7</sub>   be rewritten in base ten notation?

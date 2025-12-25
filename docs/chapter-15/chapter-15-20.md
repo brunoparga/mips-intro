@@ -21,7 +21,7 @@ values often reveals problems.
 **Here
  is a run of the program after `x` was changed
 to  `-1.`
-The result, 0x72 = 11410 is correct.**
+The result, 0x72 = 114<sub>10</sub> is correct.**
 As always, running is done by single-stepping (pushing F10).
 The PC is initialized to 0x00400000.
 

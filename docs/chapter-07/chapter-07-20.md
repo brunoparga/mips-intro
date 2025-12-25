@@ -15,7 +15,7 @@ Since
  the base is 3, the algorithm calls for repeatedly
 dividing by 3 until the number is reduced to zero.
 
-100ten =
+100<sub>ten</sub> =
 
 ```
 100 div 3 = 33 r 1; 
@@ -26,7 +26,7 @@ dividing by 3 until the number is reduced to zero.
 
 ```
 
-So 100ten = 102013.
+So 100<sub>ten</sub> = 10201<sub>3</sub>.
 
 Checking the answer:
 
@@ -45,4 +45,4 @@ convert from base three into base ten, then from base ten to base seven.
 
 ## Question
 
-What is the base 7 representation of 102013   ?
+What is the base 7 representation of 10201<sub>3</sub>   ?

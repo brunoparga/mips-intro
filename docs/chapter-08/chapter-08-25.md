@@ -49,21 +49,12 @@ be Consistent
 
 with the Binary. |
 | --- | --- |
-| ```
-
-11111 1 1
+| 11111 1 1
  1011 1101 
  1110 0101 
- 1010 0010  
-
-``` | ```
-
- 
--67 
+ 1010 0010 | -67 
 -27   
--94 
-
-``` |
+-94 |
 
 Of course, the computer has no independent means of
 "checking its result."  All it can do is look

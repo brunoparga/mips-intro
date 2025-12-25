@@ -22,9 +22,9 @@ are not regarded as general purpose registers.
  Number | Mnemonic
  Name | Conventional Use |
 | --- | --- | --- | --- | --- | --- | --- |
-| $0 | $zero | Permanently 0 |   | `$24, $25` | `$t8, $t9` | Temporary |
-| $1 | $at | Assembler Temporary |   | `$26, $27` | `$k0, $k1` | Kernel |
-| `$2, $3` | `$v0, $v1` | Value returned 
+| $0 | $zero | Permanently 0 |   | $24, $25 | $t8, $t9 | Temporary |
+| $1 | $at | Assembler Temporary |   | $26, $27 | $k0, $k1 | Kernel |
+| $2, $3 | $v0, $v1 | Value returned 
 by a subroutine |   | $28 | $gp | Global Pointer |
 | $4-$7 | $a0-$a3 | Subroutine Arguments |   | $29 | $sp | Stack Pointer |
 | $8-$15 | $t0-$t7 | Temporary |   | $30 | $fp | Frame Pointer |

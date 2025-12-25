@@ -14,7 +14,7 @@ End of the Chapter
 
 ```
 
-So 102013 = 100ten = 2027
+So 10201<sub>3</sub> = 100<sub>ten</sub> = 202<sub>7</sub>
 
 ## Content
 

@@ -23,7 +23,7 @@ For example, from the previous table:
 
 
 
-| bge | `s,t,label` | `branch if s>=t` | signed |
+| bge | s,t,label | branch if s&gt;=t | signed |
 | --- | --- | --- | --- |
 
 Here

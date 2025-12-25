@@ -16,11 +16,11 @@ representation.
 | --- | --- | --- | --- |
 | print integer | 1 | $a0 == integer |   |
 | print float | 2 | $f12 == float |   |
-| print double | 3 | `($f12, $f13) == double` |   |
+| print double | 3 | ($f12, $f13) == double |   |
 | print string | 4 | $a0 == address of string |   |
 | read  integer | 5 |   | $v0 ← integer |
 | read  float | 6 |   | $f0 ← float |
-| read  double | 7 |   | `($f0, $f1) ← double` |
+| read  double | 7 |   | ($f0, $f1) ← double |
 | read  string | 8 | $a0 == buffer address
 $a1 == buffer length |   |
 | allocate memory | 9 | $a0 == number of bytes | $v0 ← address |

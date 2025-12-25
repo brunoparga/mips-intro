@@ -47,7 +47,7 @@ convert the decimal fraction to binary.
 > have enough bits in the binary fraction.)
 
 For our example: 
-0.625 is 0.1012.
+0.625 is 0.101<sub>2</sub>.
 In this case the conversion stops when the decimal
 fraction changes to zero.
 This does not always happen.

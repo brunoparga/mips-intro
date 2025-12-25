@@ -17,7 +17,7 @@ Maybe.
                      condition bit = 1
                   else 
 							       condition bit = 0` |
-| `c.lt.s fs, ft` | `if $fs < $ft 
+| `c.lt.s fs, ft` | `if $fs &lt; $ft 
                      condition bit = 1
                   else 
 							       condition bit = 0` |

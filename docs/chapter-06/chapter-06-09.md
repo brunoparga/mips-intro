@@ -48,4 +48,4 @@ The characters "421 (base five)" and "111 (base ten)" represent the *same number
 
 ## Question
 
-Change the representation of 1025 from base five to base ten.
+Change the representation of 102<sub>5</sub> from base five to base ten.
